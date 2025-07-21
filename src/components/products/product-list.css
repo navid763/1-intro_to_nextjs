@@ -1,0 +1,22 @@
+@media (min-width: 768px) {
+
+    /* Desktop: 3 columns - only middle column gets left and right borders */
+    .product-grid .product-card:nth-child(3n-1) {
+        border-left: 1px solid #d1d5db;
+        border-right: 1px solid #d1d5db;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 767px) {
+
+    /* Tablet: 2 columns - only right column gets left border */
+    .product-grid .product-card:nth-child(2n-1) {
+        border-left: 1px solid #d1d5db;
+    }
+}
+
+
+
+.product-card:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

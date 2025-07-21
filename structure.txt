@@ -1,0 +1,165 @@
+my-shop/
+├── src/
+│   ├── app/                          # App Router (Next.js 13+)
+│   │   ├── layout.tsx                # Layout اصلی
+│   │   ├── page.tsx                  # صفحه خانه
+│   │   ├── globals.css               # استایل‌های عمومی
+│   │   ├── loading.tsx               # Loading UI
+│   │   ├── not-found.tsx             # 404 Page
+│   │   │
+│   │   ├── products/                 # گروه محصولات
+│   │   │   ├── page.tsx              # لیست همه محصولات
+│   │   │   ├── [slug]/               # صفحه جامع محصول منفرد (همه محصولات)
+│   │   │   │   └── page.tsx          # iphone-15, macbook-pro, galaxy-watch, charger-usbc
+│   │   │   │
+│   │   │   ├── phones/               # دسته‌بندی گوشی
+│   │   │   │   ├── page.tsx          # لیست گوشی‌ها
+│   │   │   │   └── accessories/      # لوازم جانبی گوشی
+│   │   │   │       ├── page.tsx      # لیست لوازم جانبی
+│   │   │   │       ├── chargers/
+│   │   │   │       │   └── page.tsx  # لیست شارژرها
+│   │   │   │       └── cases/
+│   │   │   │           └── page.tsx  # لیست قاب‌ها
+│   │   │   │
+│   │   │   ├── laptops/              # دسته‌بندی لپتاپ
+│   │   │   │   ├── page.tsx          # لیست لپتاپ‌ها
+│   │   │   │   └── accessories/
+│   │   │   │       ├── page.tsx      # لیست لوازم جانبی
+│   │   │   │       ├── mouse/
+│   │   │   │       │   └── page.tsx  # لیست ماوس‌ها
+│   │   │   │       └── keyboards/
+│   │   │   │           └── page.tsx  # لیست کیبوردها
+│   │   │   │
+│   │   │   └── smartwatches/         # دسته‌بندی ساعت هوشمند
+│   │   │       ├── page.tsx          # لیست ساعت‌ها
+│   │   │       └── accessories/
+│   │   │           ├── page.tsx      # لیست لوازم جانبی
+│   │   │           └── bands/
+│   │   │               └── page.tsx  # لیست بند‌ها
+│   │   │
+│   │   ├── cart/                     # سبد خرید
+│   │   │   └── page.tsx
+│   │   │
+│   │   ├── checkout/                 # فرآیند خرید
+│   │   │   ├── page.tsx
+│   │   │   └── success/
+│   │   │       └── page.tsx
+│   │   │
+│   │   ├── search/                   # جستجو
+│   │   │   └── page.tsx
+│   │   │
+│   │   └── api/                      # API Routes
+│   │       ├── products/
+│   │       │   ├── route.ts
+│   │       │   └── [id]/
+│   │       │       └── route.ts
+│   │       ├── categories/
+│   │       │   └── route.ts
+│   │       └── cart/
+│   │           └── route.ts
+│   │
+│   ├── components/                   # کامپوننت‌های قابل استفاده مجدد
+│   │   ├── ui/                       # کامپوننت‌های پایه UI
+│   │   │   ├── Button.tsx
+│   │   │   ├── Card.tsx
+│   │   │   ├── Input.tsx
+│   │   │   ├── Modal.tsx
+│   │   │   ├── Badge.tsx
+│   │   │   └── Loading.tsx
+│   │   │
+│   │   ├── layout/                   # کامپوننت‌های layout
+│   │   │   ├── Header/
+│   │   │   │   ├── Header.tsx
+│   │   │   │   ├── Navigation.tsx
+│   │   │   │   └── MobileMenu.tsx
+│   │   │   ├── Footer/
+│   │   │   │   └── Footer.tsx
+│   │   │   └── Sidebar/
+│   │   │       └── Sidebar.tsx
+│   │   │
+│   │   ├── product/                  # کامپوننت‌های محصول
+│   │   │   ├── ProductCard.tsx       # کارت محصول
+│   │   │   ├── ProductGrid.tsx       # گرید محصولات
+│   │   │   ├── ProductDetails.tsx    # جزئیات محصول
+│   │   │   ├── ProductImages.tsx     # تصاویر محصول
+│   │   │   ├── ProductInfo.tsx       # اطلاعات محصول
+│   │   │   ├── RelatedProducts.tsx   # محصولات مرتبط
+│   │   │   └── ProductReviews.tsx    # نظرات محصول
+│   │   │
+│   │   ├── category/                 # کامپوننت‌های دسته‌بندی
+│   │   │   ├── CategoryCard.tsx
+│   │   │   ├── CategoryGrid.tsx
+│   │   │   ├── CategoryNav.tsx
+│   │   │   └── SubcategoryList.tsx
+│   │   │
+│   │   ├── cart/                     # کامپوننت‌های سبد خرید
+│   │   │   ├── CartItem.tsx
+│   │   │   ├── CartSummary.tsx
+│   │   │   ├── AddToCartButton.tsx
+│   │   │   └── CartDrawer.tsx
+│   │   │
+│   │   ├── search/                   # کامپوننت‌های جستجو
+│   │   │   ├── SearchBar.tsx
+│   │   │   ├── SearchResults.tsx
+│   │   │   ├── SearchFilters.tsx
+│   │   │   └── SearchSuggestions.tsx
+│   │   │
+│   │   └── common/                   # کامپوننت‌های عمومی
+│   │       ├── Breadcrumb.tsx
+│   │       ├── Pagination.tsx
+│   │       ├── StarRating.tsx
+│   │       ├── PriceDisplay.tsx
+│   │       └── ImageWithFallback.tsx
+│   │
+│   ├── lib/                          # توابع و utilities
+│   │   ├── utils.ts                  # توابع کمکی عمومی
+│   │   ├── constants.ts              # ثابت‌ها
+│   │   ├── validations.ts            # validation schemas
+│   │   ├── api.ts                    # API client
+│   │   └── db.ts                     # اتصال پایگاه داده
+│   │
+│   ├── types/                        # Type definitions
+│   │   ├── product.ts
+│   │   ├── category.ts
+│   │   ├── cart.ts
+│   │   └── user.ts
+│   │
+│   ├── hooks/                        # Custom hooks
+│   │   ├── useCart.ts
+│   │   ├── useProducts.ts
+│   │   ├── useSearch.ts
+│   │   └── useLocalStorage.ts
+│   │
+│   ├── store/                        # State management (Zustand/Redux)
+│   │   ├── cartStore.ts
+│   │   ├── productStore.ts
+│   │   └── userStore.ts
+│   │
+│   └── styles/                       # فایل‌های CSS
+│       ├── globals.css
+│       ├── components.css
+│       └── variables.css
+│
+├── public/                           # فایل‌های استاتیک
+│   ├── images/
+│   │   ├── products/
+│   │   │   ├── phones/
+│   │   │   ├── laptops/
+│   │   │   └── smartwatches/
+│   │   └── categories/
+│   ├── icons/
+│   └── favicon.ico
+│
+├── data/                             # داده‌های موقت/mock
+│   ├── products.json
+│   ├── categories.json
+│   └── mock-data.ts
+│
+├── docs/                             # مستندات
+│   └── api.md
+│
+├── .env.local                        # متغیرهای محیطی
+├── next.config.js                    # تنظیمات Next.js
+├── tailwind.config.js                # تنظیمات Tailwind (اختیاری)
+├── package.json
+└── tsconfig.json

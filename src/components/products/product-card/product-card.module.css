@@ -1,0 +1,14 @@
+.properties-container {
+    background: linear-gradient(to right,
+            #eeeeee 0%,
+            #cccccc 20%,
+            #999999 40%,
+            #cccccc 60%,
+            #eeeeee 80%,
+            #ffffff 100%);
+}
+
+.hoverScale:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
