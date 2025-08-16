@@ -6,3 +6,7 @@ body {
   color: var(--foreground);
   font-family: var(--font-BYekan), Arial, Helvetica, sans-serif;
 }
+
+.main-container {
+  flex-grow: 1;
+}

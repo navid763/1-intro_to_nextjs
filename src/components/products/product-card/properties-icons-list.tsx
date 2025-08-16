@@ -3,11 +3,11 @@ import { propertyIconsMap } from "./propertyIconsMap";
 import PropertiesIcon from "./properties-icon";
 type FeatureValue = string[];
 
-interface FeaturesMap {
+export interface FeaturesMap {
     [key: string]: FeatureValue;
 }
 
-interface PropertiesIconsListProps {
+export interface PropertiesIconsListProps {
     features: FeaturesMap;
 }
 

@@ -1,0 +1,3834 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "titleFa": "گوشی موبایل اپل مدل iPhone 16 CH دو سیم کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+            "titleEn": "Apple iPhone 16 CH Dual SIM Storage 128GB And RAM 8GB Mobile Phone",
+            "slug": "iphone-16-ch-128gb-8gb",
+            "introduction": "گوشی موبایل اپل مدل iPhone 16، به عنوان یکی از جدیدترین مدل‌های این برند معتبر، با طراحی مدرن و ویژگی‌های پیشرفته، تجربه‌ای بی‌نظیر از دنیای تکنولوژی را برای کاربران فراهم می‌کند. این گوشی با ظرفیت 128 گیگابایت و رم 8 گیگابایت، عملکردی سریع و روان را ارائه می‌دهد که به راحتی از پس کارهای روزمره و multitasking برمی‌آید. طراحی این دستگاه با دقت و ظرافت بالا انجام شده و بدنه آن از مواد با کیفیت ساخته شده است که حس لوکس بودن را به کاربر منتقل می‌کند. قابلیت پشتیبانی از دو سیم کارت، امکان استفاده همزمان از دو شماره تلفن را برای کاربران فراهم می‌کند که این ویژگی به‌خصوص برای افرادی که به دو شماره مختلف برای کار و زندگی شخصی نیاز دارند بسیار مفید است. دوربین‌های با کیفیت iPhone 16، تجربه عکاسی فوق‌العاده‌ای را ارائه می‌دهند و با فناوری‌های نوین، امکان ثبت لحظات خاص با جزئیات بالا را فراهم می‌کنند. همچنین، باتری با عمر طولانی و قابلیت‌های شارژ سریع، این اطمینان را به شما می‌دهد که می‌توانید در طول روز به راحتی از گوشی خودتان استفاده کنید. به‌طور کلی، iPhone 16 یک انتخاب عالی برای کسانی است که به دنبال ترکیبی از کیفیت، قدرت و طراحی مدرن هستند. همانطور که می‌دانید گوشی‌های آیفون با پارت نامبرهای مختلفی از جمله CH، ZAA، LLAT ZPAو ... در بازار وجود دارند. پارت نامبر CH مربوط به کشور چین است که تفاوت خاصی با دیگر پارت نامبرها ندارند و تنها در مورد استفاده از تماس‌های صوتی و تماس‌های گروهی در نرم افزار فیس تایم شامل محدودیت است. این پارت نامبر از دو سیم‌کارت فیزیکی پشتیبانی می‌کند که یک نکته مثبت محسوب می‌شود. این گوشی، مانند تمامی گوشی‌های عرضه‌شده در دیجی‌کالا، به صورت قانونی و تجاری وارد کشور شده و با رجیستر رسمی، کارت گارانتی معتبر و کد فعال‌سازی به شما تحویل داده می‌شود.",
+            "colors": [
+                {
+                    "title": "طوسی",
+                    "hex": "#838988"
+                },
+                {
+                    "title": "صورتی",
+                    "hex": "#f47c9a"
+                },
+                {
+                    "title": "سفید",
+                    "hex": "#ffffff"
+                },
+                {
+                    "title": "سبز",
+                    "hex": "#65df8e"
+                },
+                {
+                    "title": "زغالی",
+                    "hex": "#272727"
+                }
+            ],
+            "inventory": {
+                "inStock": 18,
+                "reserved": 6,
+                "available": 12
+            },
+            "rating": {
+                "average": 4.3,
+                "totalReviews": 127,
+                "breakdown": {
+                    "5": 68,
+                    "4": 32,
+                    "3": 18,
+                    "2": 6,
+                    "1": 3
+                }
+            },
+            "pricing": {
+                "originalPrice": 45700000,
+                "discountedPrice": 44900000,
+                "discountPercentage": 7,
+                "currency": "IRR"
+            },
+            "images": [
+                "/images/phones/iphone-16/1.jpg",
+                "/images/phones/iphone-16/2.jpg",
+                "/images/phones/iphone-16/3.jpg",
+                "/images/phones/iphone-16/4.jpg"
+            ],
+            "likedBy": [
+                101,
+                205,
+                387,
+                442,
+                156
+            ],
+            "sharedBy": [
+                205,
+                442
+            ],
+            "warrantyId": 1,
+            "clubPoints": 850,
+            "shippingMethods": [
+                1,
+                2,
+                3
+            ],
+            "comments": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "categoryId": 1,
+            "brandId": 1,
+            "specifications": {
+                "general": {
+                    "label": "مشخصات کلی",
+                    "specs": {
+                        "region": {
+                            "labelFa": "ریجن",
+                            "labelEn": "Region",
+                            "value": "چین",
+                            "valueEn": "چین",
+                            "slug": "region",
+                            "code": "CN",
+                            "type": "text"
+                        },
+                        "phoneType": {
+                            "labelFa": "نوع گوشی",
+                            "labelEn": "Phone Type",
+                            "value": "نوع گوشی موبایل",
+                            "valueEn": "نوع گوشی موبایل",
+                            "slug": "phone-type",
+                            "code": "mobile",
+                            "type": "text"
+                        },
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "iOS",
+                            "valueEn": "iOS",
+                            "slug": "os",
+                            "code": "ios",
+                            "type": "text"
+                        },
+                        "category": {
+                            "labelFa": "دسته‌بندی",
+                            "labelEn": "Category",
+                            "value": "پرچم‌دار",
+                            "valueEn": "پرچم‌دار",
+                            "slug": "category",
+                            "code": "flagship",
+                            "type": "text"
+                        },
+                        "model": {
+                            "labelFa": "مدل",
+                            "labelEn": "Model",
+                            "value": "iPhone ۱۶ CH",
+                            "valueEn": "iPhone ۱۶ CH",
+                            "slug": "model",
+                            "code": "iPhone 16 CH",
+                            "type": "text"
+                        },
+                        "releaseDate": {
+                            "labelFa": "زمان معرفی",
+                            "labelEn": "Release Date",
+                            "value": "۹ سپتامبر ۲۰۲۴",
+                            "valueEn": "۹ سپتامبر ۲۰۲۴",
+                            "slug": "release-date",
+                            "code": "2024-09-09",
+                            "type": "text"
+                        },
+                        "dimensions": {
+                            "labelFa": "ابعاد",
+                            "labelEn": "Dimensions",
+                            "value": "۱۴۷.۶x۷۱.۶x۷.۸ میلی‌متر",
+                            "valueEn": "۱۴۷.۶x۷۱.۶x۷.۸ میلی‌متر",
+                            "slug": "dimensions",
+                            "code": "147.6x71.6x7.8",
+                            "type": "text"
+                        },
+                        "weight": {
+                            "labelFa": "وزن",
+                            "labelEn": "Weight",
+                            "value": "۱۷۰ گرم",
+                            "valueEn": 170,
+                            "slug": "weight",
+                            "code": 170,
+                            "type": "number"
+                        },
+                        "bodyMaterial": {
+                            "labelFa": "توضیحات بدنه",
+                            "labelEn": "Body Material",
+                            "value": "قاب جلو و پشت از جنس شیشه / فریم از جنس آلومینیوم",
+                            "valueEn": "قاب جلو و پشت از جنس شیشه / فریم از جنس آلومینیوم",
+                            "slug": "body-material",
+                            "code": "glass_aluminum",
+                            "type": "text"
+                        },
+                        "resistance": {
+                            "labelFa": "قابلیت‌های مقاومتی",
+                            "labelEn": "Resistance",
+                            "value": [
+                                "مقاوم در برابر نفوذ آب",
+                                "مقاوم در برابر نفوذ گرد و غبار"
+                            ],
+                            "valueEn": [
+                                "مقاوم در برابر نفوذ آب",
+                                "مقاوم در برابر نفوذ گرد و غبار"
+                            ],
+                            "slug": "resistance",
+                            "code": "ip68",
+                            "type": "array"
+                        },
+                        "simCount": {
+                            "labelFa": "تعداد سیم کارت",
+                            "labelEn": "Sim Count",
+                            "value": "دو عدد",
+                            "valueEn": 2,
+                            "slug": "sim-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "simType": {
+                            "labelFa": "نوع سیم کارت",
+                            "labelEn": "Sim Type",
+                            "value": "سایز نانو (۸.۸ × ۱۲.۳ میلی‌متر)",
+                            "valueEn": "سایز نانو (۸.۸ × ۱۲.۳ میلی‌متر)",
+                            "slug": "sim-type",
+                            "code": "nano",
+                            "type": "text"
+                        },
+                        "keyFeatures": {
+                            "labelFa": "ویژگی‌های کلیدی",
+                            "labelEn": "Key Features",
+                            "value": [
+                                "دارای گواهی IP۶۸ و ضد آب تا عمق ۶متری آب به مدت ۳۰ دقیقه",
+                                "امکان ارتقا سیستم عامل به iOS نسخه ۱۸.۱",
+                                "مجهز به سیستم ارتباطی Ultra Wideband",
+                                "مجهز به سیستم پیام اضطراری SOS و مکان یابی توسط ماهواره"
+                            ],
+                            "valueEn": [
+                                "دارای گواهی IP۶۸ و ضد آب تا عمق ۶متری آب به مدت ۳۰ دقیقه",
+                                "امکان ارتقا سیستم عامل به iOS نسخه ۱۸.۱",
+                                "مجهز به سیستم ارتباطی Ultra Wideband",
+                                "مجهز به سیستم پیام اضطراری SOS و مکان یابی توسط ماهواره"
+                            ],
+                            "slug": "key-features",
+                            "code": "uwb,sos,ip68,ios18",
+                            "type": "array"
+                        }
+                    }
+                },
+                "display": {
+                    "label": "صفحه‌نمایش",
+                    "specs": {
+                        "technology": {
+                            "labelFa": "فناوری صفحه‌نمایش",
+                            "labelEn": "Technology",
+                            "value": "LTPO Super Retina XDR OLED",
+                            "valueEn": "LTPO Super Retina XDR OLED",
+                            "slug": "technology",
+                            "code": "oled",
+                            "type": "text"
+                        },
+                        "refreshRate": {
+                            "labelFa": "نرخ بروزرسانی تصویر",
+                            "labelEn": "Refresh Rate",
+                            "value": "۶۰ هرتز",
+                            "valueEn": 60,
+                            "slug": "refresh-rate",
+                            "code": 60,
+                            "type": "number"
+                        },
+                        "brightness": {
+                            "labelFa": "روشنایی صفحه‌نمایش",
+                            "labelEn": "Brightness",
+                            "value": "۲۰۰۰ نیت",
+                            "valueEn": 2000,
+                            "slug": "brightness",
+                            "code": 2000,
+                            "type": "number"
+                        },
+                        "size": {
+                            "labelFa": "اندازه",
+                            "labelEn": "Size",
+                            "value": "۶.۱ اینچ",
+                            "valueEn": 6.1,
+                            "slug": "size",
+                            "code": 6.1,
+                            "type": "number"
+                        },
+                        "screenToBodyRatio": {
+                            "labelFa": "نسبت صفحه‌نمایش به بدنه",
+                            "labelEn": "Screen To Body Ratio",
+                            "value": "۸۶.۸%",
+                            "valueEn": 86.8,
+                            "slug": "screen-to-body-ratio",
+                            "code": 86.8,
+                            "type": "number"
+                        },
+                        "aspectRatio": {
+                            "labelFa": "نسبت تصویر",
+                            "labelEn": "Aspect Ratio",
+                            "value": "۱۹.۵:۹",
+                            "valueEn": "۱۹.۵:۹",
+                            "slug": "aspect-ratio",
+                            "code": "19.5:9",
+                            "type": "text"
+                        },
+                        "resolution": {
+                            "labelFa": "رزولوشن صفحه‌نمایش",
+                            "labelEn": "Resolution",
+                            "value": "۱۱۷۹x۲۵۵۶ پیکسل",
+                            "valueEn": "۱۱۷۹x۲۵۵۶ پیکسل",
+                            "slug": "resolution",
+                            "code": "1179x2556",
+                            "type": "text"
+                        },
+                        "pixelDensity": {
+                            "labelFa": "تراکم پیکسلی",
+                            "labelEn": "Pixel Density",
+                            "value": "۴۶۰ پیکسل بر اینچ",
+                            "valueEn": 460,
+                            "slug": "pixel-density",
+                            "code": 460,
+                            "type": "number"
+                        },
+                        "screenProtection": {
+                            "labelFa": "نوع محافظ صفحه‌نمایش",
+                            "labelEn": "Screen Protection",
+                            "value": "Corning Gorilla Glass",
+                            "valueEn": "Corning Gorilla Glass",
+                            "slug": "screen-protection",
+                            "code": "gorilla_glass",
+                            "type": "text"
+                        },
+                        "otherFeatures": {
+                            "labelFa": "سایر قابلیت‌ها",
+                            "labelEn": "Other Features",
+                            "value": [
+                                "پشتیبانی از HDR۱۰",
+                                "پشتیبانی از Dolby Vision"
+                            ],
+                            "valueEn": [
+                                "پشتیبانی از HDR۱۰",
+                                "پشتیبانی از Dolby Vision"
+                            ],
+                            "slug": "other-features",
+                            "code": "hdr10,dolby_vision",
+                            "type": "array"
+                        }
+                    }
+                },
+                "processor": {
+                    "label": "پردازنده",
+                    "specs": {
+                        "chipset": {
+                            "labelFa": "تراشه",
+                            "labelEn": "Chipset",
+                            "value": "Apple A۱۸ (۳ nm)",
+                            "valueEn": "Apple A۱۸ (۳ nm)",
+                            "slug": "chipset",
+                            "code": "A18",
+                            "type": "text"
+                        },
+                        "cpu": {
+                            "labelFa": "پردازنده مرکزی",
+                            "labelEn": "Cpu",
+                            "value": "شش هسته‌ای (دو هسته ۴.۰۴ گیگاهرتزی و چهار هسته ۲.۲ گیگاهرتزی)",
+                            "valueEn": "شش هسته‌ای (دو هسته ۴.۰۴ گیگاهرتزی و چهار هسته ۲.۲ گیگاهرتزی)",
+                            "slug": "cpu",
+                            "code": "6_core",
+                            "type": "text"
+                        },
+                        "frequency": {
+                            "labelFa": "فرکانس پردازنده",
+                            "labelEn": "Frequency",
+                            "value": "۲.۲ - ۴.۰۴ گیگاهرتز",
+                            "valueEn": 4.04,
+                            "slug": "frequency",
+                            "code": 4.04,
+                            "type": "number"
+                        },
+                        "gpu": {
+                            "labelFa": "پردازنده گرافیکی",
+                            "labelEn": "Gpu",
+                            "value": "گرافیک ۵ هسته‌ای Apple GPU",
+                            "valueEn": "گرافیک ۵ هسته‌ای Apple GPU",
+                            "slug": "gpu",
+                            "code": "5_core_gpu",
+                            "type": "text"
+                        }
+                    }
+                },
+                "memory": {
+                    "label": "حافظه",
+                    "specs": {
+                        "internal": {
+                            "labelFa": "حافظه داخلی",
+                            "labelEn": "Internal",
+                            "value": "۱۲۸ گیگابایت",
+                            "valueEn": 128,
+                            "slug": "internal",
+                            "code": 128,
+                            "type": "number"
+                        },
+                        "ram": {
+                            "labelFa": "رم",
+                            "labelEn": "Ram",
+                            "value": "۸ گیگابایت",
+                            "valueEn": 8,
+                            "slug": "ram",
+                            "code": 8,
+                            "type": "number"
+                        },
+                        "memoryCardSupport": {
+                            "labelFa": "پشتیبانی از کارت حافظه",
+                            "labelEn": "Memory Card Support",
+                            "value": "فاقد پشتیبانی از کارت حافظه",
+                            "valueEn": false,
+                            "slug": "memory-card-support",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "memoryCardStandard": {
+                            "labelFa": "استاندارد کارت حافظه",
+                            "labelEn": "Memory Card Standard",
+                            "value": "NVMe",
+                            "valueEn": "NVMe",
+                            "slug": "memory-card-standard",
+                            "code": "nvme",
+                            "type": "text"
+                        }
+                    }
+                },
+                "connectivity": {
+                    "label": "اتصالات",
+                    "specs": {
+                        "networks": {
+                            "labelFa": "شبکه‌های مخابراتی",
+                            "labelEn": "Networks",
+                            "value": [
+                                "۲G",
+                                "۳G",
+                                "۴G",
+                                "۵G"
+                            ],
+                            "valueEn": [
+                                "۲G",
+                                "۳G",
+                                "۴G",
+                                "۵G"
+                            ],
+                            "slug": "networks",
+                            "code": "2g,3g,4g,5g",
+                            "type": "array"
+                        },
+                        "bluetoothVersion": {
+                            "labelFa": "نسخه بلوتوث",
+                            "labelEn": "Bluetooth Version",
+                            "value": "۵.۳",
+                            "valueEn": 5.3,
+                            "slug": "bluetooth-version",
+                            "code": 5.3,
+                            "type": "number"
+                        },
+                        "bluetoothFeatures": {
+                            "labelFa": "مشخصات بلوتوث",
+                            "labelEn": "Bluetooth Features",
+                            "value": [
+                                "پشتیبانی از تکنولوژی A۲DP و اتصال بهتر با سایر وسایل الکترونیکی",
+                                "مجهز به تکنولوژی LE و مصرف بهینه باتری"
+                            ],
+                            "valueEn": [
+                                "پشتیبانی از تکنولوژی A۲DP و اتصال بهتر با سایر وسایل الکترونیکی",
+                                "مجهز به تکنولوژی LE و مصرف بهینه باتری"
+                            ],
+                            "slug": "bluetooth-features",
+                            "code": "a2dp,le",
+                            "type": "array"
+                        },
+                        "gps": {
+                            "labelFa": "تکنولوژی‌های مکان‌یابی",
+                            "labelEn": "Gps",
+                            "value": [
+                                "GPS",
+                                "GLONASS",
+                                "QZSS",
+                                "GALILEO",
+                                "BDS"
+                            ],
+                            "valueEn": [
+                                "GPS",
+                                "GLONASS",
+                                "QZSS",
+                                "GALILEO",
+                                "BDS"
+                            ],
+                            "slug": "gps",
+                            "code": "gps,glonass,qzss,galileo,bds",
+                            "type": "array"
+                        },
+                        "radio": {
+                            "labelFa": "رادیو",
+                            "labelEn": "Radio",
+                            "value": "عدم پشتیبانی",
+                            "valueEn": false,
+                            "slug": "radio",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "ports": {
+                            "labelFa": "درگاه‌ها و فناوری‌های ارتباطی",
+                            "labelEn": "Ports",
+                            "value": [
+                                "USB Type-C ۲.۰",
+                                "DisplayPort"
+                            ],
+                            "valueEn": [
+                                "USB Type-C ۲.۰",
+                                "DisplayPort"
+                            ],
+                            "slug": "ports",
+                            "code": "usb_c,displayport",
+                            "type": "array"
+                        },
+                        "wireless": {
+                            "labelFa": "شبکه‌های ارتباطی قابل پشتیبانی",
+                            "labelEn": "Wireless",
+                            "value": [
+                                "NFC",
+                                "QZSS",
+                                "Wi-Fi",
+                                "بلوتوث"
+                            ],
+                            "valueEn": [
+                                "NFC",
+                                "QZSS",
+                                "Wi-Fi",
+                                "بلوتوث"
+                            ],
+                            "slug": "wireless",
+                            "code": "nfc,qzss,wifi,bluetooth",
+                            "type": "array"
+                        }
+                    }
+                },
+                "camera": {
+                    "label": "دوربین",
+                    "specs": {
+                        "rearCameraCount": {
+                            "labelFa": "تعداد دوربین‌های پشت",
+                            "labelEn": "Rear Camera Count",
+                            "value": "۲ ماژول دوربین",
+                            "valueEn": 2,
+                            "slug": "rear-camera-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "mainLens": {
+                            "labelFa": "نوع لنز دوربین اصلی",
+                            "labelEn": "Main Lens",
+                            "value": "عریض",
+                            "valueEn": "عریض",
+                            "slug": "main-lens",
+                            "code": "wide",
+                            "type": "text"
+                        },
+                        "mainResolution": {
+                            "labelFa": "رزولوشن دوربین اصلی",
+                            "labelEn": "Main Resolution",
+                            "value": "۴۸ مگاپیکسل",
+                            "valueEn": 48,
+                            "slug": "main-resolution",
+                            "code": 48,
+                            "type": "number"
+                        },
+                        "mainSpecs": {
+                            "labelFa": "مشخصات دوربین اصلی",
+                            "labelEn": "Main Specs",
+                            "value": "دریچه دیافراگم f/۱.۶ - فاصله کانونی ۲۶ میلی‌متر - اندازه لنز ۱/۱.۵۶ اینچ - فوکوس Dual Pixel PDAF - لرزشگیر اپتیکال - HDR و Panorama",
+                            "valueEn": "دریچه دیافراگم f/۱.۶ - فاصله کانونی ۲۶ میلی‌متر - اندازه لنز ۱/۱.۵۶ اینچ - فوکوس Dual Pixel PDAF - لرزشگیر اپتیکال - HDR و Panorama",
+                            "slug": "main-specs",
+                            "code": "f1.6,26mm,1/1.56,pdaf,ois,hdr",
+                            "type": "text"
+                        },
+                        "secondaryLens": {
+                            "labelFa": "نوع لنز دوربین دوم",
+                            "labelEn": "Secondary Lens",
+                            "value": "فوق عریض",
+                            "valueEn": "فوق عریض",
+                            "slug": "secondary-lens",
+                            "code": "ultrawide",
+                            "type": "text"
+                        },
+                        "secondaryResolution": {
+                            "labelFa": "رزولوشن دوربین دوم",
+                            "labelEn": "Secondary Resolution",
+                            "value": "۱۲ مگاپیکسل",
+                            "valueEn": 12,
+                            "slug": "secondary-resolution",
+                            "code": 12,
+                            "type": "number"
+                        },
+                        "secondarySpecs": {
+                            "labelFa": "مشخصات دوربین دوم",
+                            "labelEn": "Secondary Specs",
+                            "value": "دریچه f/۲.۲ - فاصله کانونی ۱۳ میلی‌متر - زاویه ۱۲۰ درجه - پیکسل ۰.۷ میکرومتر - فوکوس PDAF",
+                            "valueEn": "دریچه f/۲.۲ - فاصله کانونی ۱۳ میلی‌متر - زاویه ۱۲۰ درجه - پیکسل ۰.۷ میکرومتر - فوکوس PDAF",
+                            "slug": "secondary-specs",
+                            "code": "f2.2,13mm,120deg,0.7um,pdaf",
+                            "type": "text"
+                        },
+                        "focusTech": {
+                            "labelFa": "فناوری فوکوس",
+                            "labelEn": "Focus Tech",
+                            "value": "PDAF",
+                            "valueEn": "PDAF",
+                            "slug": "focus-tech",
+                            "code": "pdaf",
+                            "type": "text"
+                        },
+                        "video": {
+                            "labelFa": "ویژگی‌های فیلم‌برداری",
+                            "labelEn": "Video",
+                            "value": [
+                                "رزولوشن ۴K با ۶۰fps",
+                                "رزولوشن ۱۰۸۰p با ۱۲۰fps",
+                                "قابلیت HDR",
+                                "پشتیبانی از Dolby Vision HDR تا ۶۰fps",
+                                "ضبط استریو"
+                            ],
+                            "valueEn": [
+                                "رزولوشن ۴K با ۶۰fps",
+                                "رزولوشن ۱۰۸۰p با ۱۲۰fps",
+                                "قابلیت HDR",
+                                "پشتیبانی از Dolby Vision HDR تا ۶۰fps",
+                                "ضبط استریو"
+                            ],
+                            "slug": "video",
+                            "code": "4k60,1080p120,hdr,dolby_vision,stereo",
+                            "type": "array"
+                        },
+                        "flash": {
+                            "labelFa": "فلش",
+                            "labelEn": "Flash",
+                            "value": "Dual LED",
+                            "valueEn": "Dual LED",
+                            "slug": "flash",
+                            "code": "dual_led",
+                            "type": "text"
+                        },
+                        "selfieResolution": {
+                            "labelFa": "رزولوشن دوربین سلفی",
+                            "labelEn": "Selfie Resolution",
+                            "value": "۱۲ مگاپیکسل",
+                            "valueEn": 12,
+                            "slug": "selfie-resolution",
+                            "code": 12,
+                            "type": "number"
+                        },
+                        "selfieSpecs": {
+                            "labelFa": "مشخصات دوربین سلفی",
+                            "labelEn": "Selfie Specs",
+                            "value": "دریچه f/۱.۹ - فاصله ۲۳ میلی‌متر - اندازه لنز ۱/۳.۶ اینچ - فوکوس PDAF - سنسور SL ۳D - HDR - ضبط استریو - فیلمبرداری ۴K/۶۰fps و ۱۰۸۰p/۱۲۰fps - لرزشگیر ژیروسکوپی",
+                            "valueEn": "دریچه f/۱.۹ - فاصله ۲۳ میلی‌متر - اندازه لنز ۱/۳.۶ اینچ - فوکوس PDAF - سنسور SL ۳D - HDR - ضبط استریو - فیلمبرداری ۴K/۶۰fps و ۱۰۸۰p/۱۲۰fps - لرزشگیر ژیروسکوپی",
+                            "slug": "selfie-specs",
+                            "code": "f1.9,23mm,1/3.6,pdaf,sl3d,hdr,4k60,gyro",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sound": {
+                    "label": "صدا",
+                    "specs": {
+                        "speaker": {
+                            "labelFa": "اسپیکر",
+                            "labelEn": "Speaker",
+                            "value": "استریو",
+                            "valueEn": "استریو",
+                            "slug": "speaker",
+                            "code": "stereo",
+                            "type": "text"
+                        },
+                        "output": {
+                            "labelFa": "خروجی صدا",
+                            "labelEn": "Output",
+                            "value": "USB Type-C",
+                            "valueEn": "USB Type-C",
+                            "slug": "output",
+                            "code": "usb_c",
+                            "type": "text"
+                        }
+                    }
+                },
+                "software": {
+                    "label": "نرم‌افزار",
+                    "specs": {
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "iOS",
+                            "valueEn": "iOS",
+                            "slug": "os",
+                            "code": "ios",
+                            "type": "text"
+                        },
+                        "osVersion": {
+                            "labelFa": "نسخه سیستم عامل",
+                            "labelEn": "Os Version",
+                            "value": "iOS ۱۸",
+                            "valueEn": "iOS ۱۸",
+                            "slug": "os-version",
+                            "code": "18",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sensors": {
+                    "label": "حس‌گرها",
+                    "specs": {
+                        "sensors": {
+                            "labelFa": "حس‌گرها",
+                            "labelEn": "Sensors",
+                            "value": [
+                                "قطب‌نما (Compass)",
+                                "شتاب‌سنج (Accelerometer)",
+                                "مجاورت (Proximity)",
+                                "فشارسنج (Barometer)",
+                                "ژیروسکوپ (Gyro)",
+                                "تشخیص چهره بیومتریک (Face ID)"
+                            ],
+                            "valueEn": [
+                                "قطب‌نما (Compass)",
+                                "شتاب‌سنج (Accelerometer)",
+                                "مجاورت (Proximity)",
+                                "فشارسنج (Barometer)",
+                                "ژیروسکوپ (Gyro)",
+                                "تشخیص چهره بیومتریک (Face ID)"
+                            ],
+                            "slug": "sensors",
+                            "code": "compass,accelerometer,proximity,barometer,gyro,face_id",
+                            "type": "array"
+                        }
+                    }
+                },
+                "battery": {
+                    "label": "باتری",
+                    "specs": {
+                        "capacity": {
+                            "labelFa": "ظرفیت باتری",
+                            "labelEn": "Capacity",
+                            "value": "۳۵۶۱ میلی‌آمپر ساعت",
+                            "valueEn": 3561,
+                            "slug": "capacity",
+                            "code": 3561,
+                            "type": "number"
+                        },
+                        "type": {
+                            "labelFa": "نوع باتری",
+                            "labelEn": "Type",
+                            "value": "لیتیوم یون",
+                            "valueEn": "لیتیوم یون",
+                            "slug": "type",
+                            "code": "li_ion",
+                            "type": "text"
+                        },
+                        "power": {
+                            "labelFa": "توان شارژ",
+                            "labelEn": "Power",
+                            "value": "۲۵ وات",
+                            "valueEn": 25,
+                            "slug": "power",
+                            "code": 25,
+                            "type": "number"
+                        },
+                        "chargingTypes": {
+                            "labelFa": "قابلیت‌های شارژ",
+                            "labelEn": "Charging Types",
+                            "value": [
+                                "شارژ با سیم",
+                                "شارژ بی‌سیم",
+                                "شارژ معکوس"
+                            ],
+                            "valueEn": [
+                                "شارژ با سیم",
+                                "شارژ بی‌سیم",
+                                "شارژ معکوس"
+                            ],
+                            "slug": "charging-types",
+                            "code": "wired,wireless,reverse",
+                            "type": "array"
+                        },
+                        "details": {
+                            "labelFa": "مشخصات باتری",
+                            "labelEn": "Details",
+                            "value": "شارژ با سیم با PD۲.۰، ۵۰٪ در ۳۰ دقیقه / شارژ بی‌سیم MagSafe با ۲۵ وات / شارژ بی‌سیم Qi۲ با ۱۵ وات / شارژ معکوس با ۴.۵ وات",
+                            "valueEn": "شارژ با سیم با PD۲.۰، ۵۰٪ در ۳۰ دقیقه / شارژ بی‌سیم MagSafe با ۲۵ وات / شارژ بی‌سیم Qi۲ با ۱۵ وات / شارژ معکوس با ۴.۵ وات",
+                            "slug": "details",
+                            "code": "pd2.0,magsafe25w,qi2_15w,reverse4.5w",
+                            "type": "text"
+                        }
+                    }
+                },
+                "inBox": {
+                    "label": "اقلام همراه",
+                    "specs": {
+                        "accessories": {
+                            "labelFa": "اقلام همراه",
+                            "labelEn": "Accessories",
+                            "value": "کابل USB Type-C",
+                            "valueEn": "کابل USB Type-C",
+                            "slug": "accessories",
+                            "code": "usb_c_cable",
+                            "type": "text"
+                        }
+                    }
+                }
+            },
+            "tags": [
+                "iphone",
+                "apple",
+                "flagship",
+                "5g",
+                "dual-camera"
+            ],
+            "seo": {
+                "metaTitle": "خرید گوشی اپل آیفون 16 CH | 128 گیگابایت | قیمت ویژه",
+                "metaDescription": "گوشی موبایل اپل iPhone 16 CH با 128GB حافظه و دوربین 48 مگاپیکسل. گارانتی 18 ماهه و ارسال سریع.",
+                "keywords": [
+                    "iphone 16",
+                    "اپل",
+                    "گوشی",
+                    "موبایل",
+                    "128gb"
+                ]
+            },
+            "availability": {
+                "status": "available",
+                "estimatedDelivery": "1-3 روز کاری",
+                "regions": [
+                    "تهران",
+                    "اصفهان",
+                    "شیراز",
+                    "مشهد"
+                ]
+            },
+            "createdAt": "2024-01-15T10:30:00Z",
+            "updatedAt": "2024-01-20T14:45:00Z"
+        },
+        {
+            "id": 2,
+            "titleFa": "گوشی موبایل اپل مدل iPhone 16 CH دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+            "titleEn": "Apple iPhone 16 CH Dual SIM Storage 128GB And RAM 6GB Mobile Phone",
+            "slug": "iphone-16-ch-128gb-6gb",
+            "introduction": "گوشی موبایل اپل مدل iPhone 16، به عنوان یکی از جدیدترین مدل‌های این برند معتبر، با طراحی مدرن و ویژگی‌های پیشرفته، تجربه‌ای بی‌نظیر از دنیای تکنولوژی را برای کاربران فراهم می‌کند. این گوشی با ظرفیت 128 گیگابایت و رم 8 گیگابایت، عملکردی سریع و روان را ارائه می‌دهد که به راحتی از پس کارهای روزمره و multitasking برمی‌آید. طراحی این دستگاه با دقت و ظرافت بالا انجام شده و بدنه آن از مواد با کیفیت ساخته شده است که حس لوکس بودن را به کاربر منتقل می‌کند. قابلیت پشتیبانی از دو سیم کارت، امکان استفاده همزمان از دو شماره تلفن را برای کاربران فراهم می‌کند که این ویژگی به‌خصوص برای افرادی که به دو شماره مختلف برای کار و زندگی شخصی نیاز دارند بسیار مفید است. دوربین‌های با کیفیت iPhone 16، تجربه عکاسی فوق‌العاده‌ای را ارائه می‌دهند و با فناوری‌های نوین، امکان ثبت لحظات خاص با جزئیات بالا را فراهم می‌کنند. همچنین، باتری با عمر طولانی و قابلیت‌های شارژ سریع، این اطمینان را به شما می‌دهد که می‌توانید در طول روز به راحتی از گوشی خودتان استفاده کنید. به‌طور کلی، iPhone 16 یک انتخاب عالی برای کسانی است که به دنبال ترکیبی از کیفیت، قدرت و طراحی مدرن هستند. همانطور که می‌دانید گوشی‌های آیفون با پارت نامبرهای مختلفی از جمله CH، ZAA، LLAT ZPAو ... در بازار وجود دارند. پارت نامبر CH مربوط به کشور چین است که تفاوت خاصی با دیگر پارت نامبرها ندارند و تنها در مورد استفاده از تماس‌های صوتی و تماس‌های گروهی در نرم افزار فیس تایم شامل محدودیت است. این پارت نامبر از دو سیم‌کارت فیزیکی پشتیبانی می‌کند که یک نکته مثبت محسوب می‌شود. این گوشی، مانند تمامی گوشی‌های عرضه‌شده در دیجی‌کالا، به صورت قانونی و تجاری وارد کشور شده و با رجیستر رسمی، کارت گارانتی معتبر و کد فعال‌سازی به شما تحویل داده می‌شود.",
+            "colors": [
+                {
+                    "title": "طوسی",
+                    "hex": "#838988"
+                },
+                {
+                    "title": "صورتی",
+                    "hex": "#f47c9a"
+                },
+                {
+                    "title": "سفید",
+                    "hex": "#ffffff"
+                },
+                {
+                    "title": "سبز",
+                    "hex": "#65df8e"
+                },
+                {
+                    "title": "زغالی",
+                    "hex": "#272727"
+                }
+            ],
+            "inventory": {
+                "inStock": 45,
+                "reserved": 3,
+                "available": 42
+            },
+            "rating": {
+                "average": 4.4,
+                "totalReviews": 130,
+                "breakdown": {
+                    "5": 71,
+                    "4": 32,
+                    "3": 18,
+                    "2": 6,
+                    "1": 3
+                }
+            },
+            "pricing": {
+                "originalPrice": 45999000,
+                "discountedPrice": 45999000,
+                "discountPercentage": 0,
+                "currency": "IRR"
+            },
+            "images": [
+                "/images/phones/iphone-16/1.jpg",
+                "/images/phones/iphone-16/2.jpg",
+                "/images/phones/iphone-16/3.jpg",
+                "/images/phones/iphone-16/4.jpg"
+            ],
+            "likedBy": [
+                101,
+                205,
+                387,
+                442,
+                156
+            ],
+            "sharedBy": [
+                205,
+                442
+            ],
+            "warrantyId": 1,
+            "clubPoints": 850,
+            "shippingMethods": [
+                1,
+                2,
+                3
+            ],
+            "comments": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "categoryId": 1,
+            "brandId": 1,
+            "specifications": {
+                "general": {
+                    "label": "مشخصات کلی",
+                    "specs": {
+                        "region": {
+                            "labelFa": "ریجن",
+                            "labelEn": "Region",
+                            "value": "چین",
+                            "valueEn": "چین",
+                            "slug": "region",
+                            "code": "CN",
+                            "type": "text"
+                        },
+                        "phoneType": {
+                            "labelFa": "نوع گوشی",
+                            "labelEn": "Phone Type",
+                            "value": "نوع گوشی موبایل",
+                            "valueEn": "نوع گوشی موبایل",
+                            "slug": "phone-type",
+                            "code": "mobile",
+                            "type": "text"
+                        },
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "iOS",
+                            "valueEn": "iOS",
+                            "slug": "os",
+                            "code": "ios",
+                            "type": "text"
+                        },
+                        "category": {
+                            "labelFa": "دسته‌بندی",
+                            "labelEn": "Category",
+                            "value": "پرچم‌دار",
+                            "valueEn": "پرچم‌دار",
+                            "slug": "category",
+                            "code": "flagship",
+                            "type": "text"
+                        },
+                        "model": {
+                            "labelFa": "مدل",
+                            "labelEn": "Model",
+                            "value": "iPhone ۱۶ CH",
+                            "valueEn": "iPhone ۱۶ CH",
+                            "slug": "model",
+                            "code": "iPhone 16 CH",
+                            "type": "text"
+                        },
+                        "releaseDate": {
+                            "labelFa": "زمان معرفی",
+                            "labelEn": "Release Date",
+                            "value": "۹ سپتامبر ۲۰۲۴",
+                            "valueEn": "۹ سپتامبر ۲۰۲۴",
+                            "slug": "release-date",
+                            "code": "2024-09-09",
+                            "type": "text"
+                        },
+                        "dimensions": {
+                            "labelFa": "ابعاد",
+                            "labelEn": "Dimensions",
+                            "value": "۱۴۷.۶x۷۱.۶x۷.۸ میلی‌متر",
+                            "valueEn": "۱۴۷.۶x۷۱.۶x۷.۸ میلی‌متر",
+                            "slug": "dimensions",
+                            "code": "147.6x71.6x7.8",
+                            "type": "text"
+                        },
+                        "weight": {
+                            "labelFa": "وزن",
+                            "labelEn": "Weight",
+                            "value": "۱۷۰ گرم",
+                            "valueEn": 170,
+                            "slug": "weight",
+                            "code": 170,
+                            "type": "number"
+                        },
+                        "bodyMaterial": {
+                            "labelFa": "توضیحات بدنه",
+                            "labelEn": "Body Material",
+                            "value": "قاب جلو و پشت از جنس شیشه / فریم از جنس آلومینیوم",
+                            "valueEn": "قاب جلو و پشت از جنس شیشه / فریم از جنس آلومینیوم",
+                            "slug": "body-material",
+                            "code": "glass_aluminum",
+                            "type": "text"
+                        },
+                        "resistance": {
+                            "labelFa": "قابلیت‌های مقاومتی",
+                            "labelEn": "Resistance",
+                            "value": [
+                                "مقاوم در برابر نفوذ آب",
+                                "مقاوم در برابر نفوذ گرد و غبار"
+                            ],
+                            "valueEn": [
+                                "مقاوم در برابر نفوذ آب",
+                                "مقاوم در برابر نفوذ گرد و غبار"
+                            ],
+                            "slug": "resistance",
+                            "code": "ip68",
+                            "type": "array"
+                        },
+                        "simCount": {
+                            "labelFa": "تعداد سیم کارت",
+                            "labelEn": "Sim Count",
+                            "value": "دو عدد",
+                            "valueEn": 2,
+                            "slug": "sim-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "simType": {
+                            "labelFa": "نوع سیم کارت",
+                            "labelEn": "Sim Type",
+                            "value": "سایز نانو (۸.۸ × ۱۲.۳ میلی‌متر)",
+                            "valueEn": "سایز نانو (۸.۸ × ۱۲.۳ میلی‌متر)",
+                            "slug": "sim-type",
+                            "code": "nano",
+                            "type": "text"
+                        },
+                        "keyFeatures": {
+                            "labelFa": "ویژگی‌های کلیدی",
+                            "labelEn": "Key Features",
+                            "value": [
+                                "دارای گواهی IP۶۸ و ضد آب تا عمق ۶متری آب به مدت ۳۰ دقیقه",
+                                "امکان ارتقا سیستم عامل به iOS نسخه ۱۸.۱",
+                                "مجهز به سیستم ارتباطی Ultra Wideband",
+                                "مجهز به سیستم پیام اضطراری SOS و مکان یابی توسط ماهواره"
+                            ],
+                            "valueEn": [
+                                "دارای گواهی IP۶۸ و ضد آب تا عمق ۶متری آب به مدت ۳۰ دقیقه",
+                                "امکان ارتقا سیستم عامل به iOS نسخه ۱۸.۱",
+                                "مجهز به سیستم ارتباطی Ultra Wideband",
+                                "مجهز به سیستم پیام اضطراری SOS و مکان یابی توسط ماهواره"
+                            ],
+                            "slug": "key-features",
+                            "code": "uwb,sos,ip68,ios18",
+                            "type": "array"
+                        }
+                    }
+                },
+                "display": {
+                    "label": "صفحه‌نمایش",
+                    "specs": {
+                        "technology": {
+                            "labelFa": "فناوری صفحه‌نمایش",
+                            "labelEn": "Technology",
+                            "value": "LTPO Super Retina XDR OLED",
+                            "valueEn": "LTPO Super Retina XDR OLED",
+                            "slug": "technology",
+                            "code": "oled",
+                            "type": "text"
+                        },
+                        "refreshRate": {
+                            "labelFa": "نرخ بروزرسانی تصویر",
+                            "labelEn": "Refresh Rate",
+                            "value": "۶۰ هرتز",
+                            "valueEn": 60,
+                            "slug": "refresh-rate",
+                            "code": 60,
+                            "type": "number"
+                        },
+                        "brightness": {
+                            "labelFa": "روشنایی صفحه‌نمایش",
+                            "labelEn": "Brightness",
+                            "value": "۲۰۰۰ نیت",
+                            "valueEn": 2000,
+                            "slug": "brightness",
+                            "code": 2000,
+                            "type": "number"
+                        },
+                        "size": {
+                            "labelFa": "اندازه",
+                            "labelEn": "Size",
+                            "value": "۶.۱ اینچ",
+                            "valueEn": 6.1,
+                            "slug": "size",
+                            "code": 6.1,
+                            "type": "number"
+                        },
+                        "screenToBodyRatio": {
+                            "labelFa": "نسبت صفحه‌نمایش به بدنه",
+                            "labelEn": "Screen To Body Ratio",
+                            "value": "۸۶.۸%",
+                            "valueEn": 86.8,
+                            "slug": "screen-to-body-ratio",
+                            "code": 86.8,
+                            "type": "number"
+                        },
+                        "aspectRatio": {
+                            "labelFa": "نسبت تصویر",
+                            "labelEn": "Aspect Ratio",
+                            "value": "۱۹.۵:۹",
+                            "valueEn": "۱۹.۵:۹",
+                            "slug": "aspect-ratio",
+                            "code": "19.5:9",
+                            "type": "text"
+                        },
+                        "resolution": {
+                            "labelFa": "رزولوشن صفحه‌نمایش",
+                            "labelEn": "Resolution",
+                            "value": "۱۱۷۹x۲۵۵۶ پیکسل",
+                            "valueEn": "۱۱۷۹x۲۵۵۶ پیکسل",
+                            "slug": "resolution",
+                            "code": "1179x2556",
+                            "type": "text"
+                        },
+                        "pixelDensity": {
+                            "labelFa": "تراکم پیکسلی",
+                            "labelEn": "Pixel Density",
+                            "value": "۴۶۰ پیکسل بر اینچ",
+                            "valueEn": 460,
+                            "slug": "pixel-density",
+                            "code": 460,
+                            "type": "number"
+                        },
+                        "screenProtection": {
+                            "labelFa": "نوع محافظ صفحه‌نمایش",
+                            "labelEn": "Screen Protection",
+                            "value": "Corning Gorilla Glass",
+                            "valueEn": "Corning Gorilla Glass",
+                            "slug": "screen-protection",
+                            "code": "gorilla_glass",
+                            "type": "text"
+                        },
+                        "otherFeatures": {
+                            "labelFa": "سایر قابلیت‌ها",
+                            "labelEn": "Other Features",
+                            "value": [
+                                "پشتیبانی از HDR۱۰",
+                                "پشتیبانی از Dolby Vision"
+                            ],
+                            "valueEn": [
+                                "پشتیبانی از HDR۱۰",
+                                "پشتیبانی از Dolby Vision"
+                            ],
+                            "slug": "other-features",
+                            "code": "hdr10,dolby_vision",
+                            "type": "array"
+                        }
+                    }
+                },
+                "processor": {
+                    "label": "پردازنده",
+                    "specs": {
+                        "chipset": {
+                            "labelFa": "تراشه",
+                            "labelEn": "Chipset",
+                            "value": "Apple A۱۸ (۳ nm)",
+                            "valueEn": "Apple A۱۸ (۳ nm)",
+                            "slug": "chipset",
+                            "code": "A18",
+                            "type": "text"
+                        },
+                        "cpu": {
+                            "labelFa": "پردازنده مرکزی",
+                            "labelEn": "Cpu",
+                            "value": "شش هسته‌ای (دو هسته ۴.۰۴ گیگاهرتزی و چهار هسته ۲.۲ گیگاهرتزی)",
+                            "valueEn": "شش هسته‌ای (دو هسته ۴.۰۴ گیگاهرتزی و چهار هسته ۲.۲ گیگاهرتزی)",
+                            "slug": "cpu",
+                            "code": "6_core",
+                            "type": "text"
+                        },
+                        "frequency": {
+                            "labelFa": "فرکانس پردازنده",
+                            "labelEn": "Frequency",
+                            "value": "۲.۲ - ۴.۰۴ گیگاهرتز",
+                            "valueEn": 4.04,
+                            "slug": "frequency",
+                            "code": 4.04,
+                            "type": "number"
+                        },
+                        "gpu": {
+                            "labelFa": "پردازنده گرافیکی",
+                            "labelEn": "Gpu",
+                            "value": "گرافیک ۵ هسته‌ای Apple GPU",
+                            "valueEn": "گرافیک ۵ هسته‌ای Apple GPU",
+                            "slug": "gpu",
+                            "code": "5_core_gpu",
+                            "type": "text"
+                        }
+                    }
+                },
+                "memory": {
+                    "label": "حافظه",
+                    "specs": {
+                        "internal": {
+                            "labelFa": "حافظه داخلی",
+                            "labelEn": "Internal",
+                            "value": "۱۲۸ گیگابایت",
+                            "valueEn": 128,
+                            "slug": "internal",
+                            "code": 128,
+                            "type": "number"
+                        },
+                        "ram": {
+                            "labelFa": "رم",
+                            "labelEn": "Ram",
+                            "value": "8 گیگابایت",
+                            "valueEn": 6,
+                            "slug": "ram",
+                            "code": 6,
+                            "type": "number"
+                        },
+                        "memoryCardSupport": {
+                            "labelFa": "پشتیبانی از کارت حافظه",
+                            "labelEn": "Memory Card Support",
+                            "value": "فاقد پشتیبانی از کارت حافظه",
+                            "valueEn": false,
+                            "slug": "memory-card-support",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "memoryCardStandard": {
+                            "labelFa": "استاندارد کارت حافظه",
+                            "labelEn": "Memory Card Standard",
+                            "value": "NVMe",
+                            "valueEn": "NVMe",
+                            "slug": "memory-card-standard",
+                            "code": "nvme",
+                            "type": "text"
+                        }
+                    }
+                },
+                "connectivity": {
+                    "label": "اتصالات",
+                    "specs": {
+                        "networks": {
+                            "labelFa": "شبکه‌های مخابراتی",
+                            "labelEn": "Networks",
+                            "value": [
+                                "۲G",
+                                "۳G",
+                                "۴G",
+                                "۵G"
+                            ],
+                            "valueEn": [
+                                "۲G",
+                                "۳G",
+                                "۴G",
+                                "۵G"
+                            ],
+                            "slug": "networks",
+                            "code": "2g,3g,4g,5g",
+                            "type": "array"
+                        },
+                        "bluetoothVersion": {
+                            "labelFa": "نسخه بلوتوث",
+                            "labelEn": "Bluetooth Version",
+                            "value": "۵.۳",
+                            "valueEn": 5.3,
+                            "slug": "bluetooth-version",
+                            "code": 5.3,
+                            "type": "number"
+                        },
+                        "bluetoothFeatures": {
+                            "labelFa": "مشخصات بلوتوث",
+                            "labelEn": "Bluetooth Features",
+                            "value": [
+                                "پشتیبانی از تکنولوژی A۲DP و اتصال بهتر با سایر وسایل الکترونیکی",
+                                "مجهز به تکنولوژی LE و مصرف بهینه باتری"
+                            ],
+                            "valueEn": [
+                                "پشتیبانی از تکنولوژی A۲DP و اتصال بهتر با سایر وسایل الکترونیکی",
+                                "مجهز به تکنولوژی LE و مصرف بهینه باتری"
+                            ],
+                            "slug": "bluetooth-features",
+                            "code": "a2dp,le",
+                            "type": "array"
+                        },
+                        "gps": {
+                            "labelFa": "تکنولوژی‌های مکان‌یابی",
+                            "labelEn": "Gps",
+                            "value": [
+                                "GPS",
+                                "GLONASS",
+                                "QZSS",
+                                "GALILEO",
+                                "BDS"
+                            ],
+                            "valueEn": [
+                                "GPS",
+                                "GLONASS",
+                                "QZSS",
+                                "GALILEO",
+                                "BDS"
+                            ],
+                            "slug": "gps",
+                            "code": "gps,glonass,qzss,galileo,bds",
+                            "type": "array"
+                        },
+                        "radio": {
+                            "labelFa": "رادیو",
+                            "labelEn": "Radio",
+                            "value": "عدم پشتیبانی",
+                            "valueEn": false,
+                            "slug": "radio",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "ports": {
+                            "labelFa": "درگاه‌ها و فناوری‌های ارتباطی",
+                            "labelEn": "Ports",
+                            "value": [
+                                "USB Type-C ۲.۰",
+                                "DisplayPort"
+                            ],
+                            "valueEn": [
+                                "USB Type-C ۲.۰",
+                                "DisplayPort"
+                            ],
+                            "slug": "ports",
+                            "code": "usb_c,displayport",
+                            "type": "array"
+                        },
+                        "wireless": {
+                            "labelFa": "شبکه‌های ارتباطی قابل پشتیبانی",
+                            "labelEn": "Wireless",
+                            "value": [
+                                "NFC",
+                                "QZSS",
+                                "Wi-Fi",
+                                "بلوتوث"
+                            ],
+                            "valueEn": [
+                                "NFC",
+                                "QZSS",
+                                "Wi-Fi",
+                                "بلوتوث"
+                            ],
+                            "slug": "wireless",
+                            "code": "nfc,qzss,wifi,bluetooth",
+                            "type": "array"
+                        }
+                    }
+                },
+                "camera": {
+                    "label": "دوربین",
+                    "specs": {
+                        "rearCameraCount": {
+                            "labelFa": "تعداد دوربین‌های پشت",
+                            "labelEn": "Rear Camera Count",
+                            "value": "۲ ماژول دوربین",
+                            "valueEn": 2,
+                            "slug": "rear-camera-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "mainLens": {
+                            "labelFa": "نوع لنز دوربین اصلی",
+                            "labelEn": "Main Lens",
+                            "value": "عریض",
+                            "valueEn": "عریض",
+                            "slug": "main-lens",
+                            "code": "wide",
+                            "type": "text"
+                        },
+                        "mainResolution": {
+                            "labelFa": "رزولوشن دوربین اصلی",
+                            "labelEn": "Main Resolution",
+                            "value": "۴۸ مگاپیکسل",
+                            "valueEn": 48,
+                            "slug": "main-resolution",
+                            "code": 48,
+                            "type": "number"
+                        },
+                        "mainSpecs": {
+                            "labelFa": "مشخصات دوربین اصلی",
+                            "labelEn": "Main Specs",
+                            "value": "دریچه دیافراگم f/۱.۶ - فاصله کانونی ۲۶ میلی‌متر - اندازه لنز ۱/۱.۵۶ اینچ - فوکوس Dual Pixel PDAF - لرزشگیر اپتیکال - HDR و Panorama",
+                            "valueEn": "دریچه دیافراگم f/۱.۶ - فاصله کانونی ۲۶ میلی‌متر - اندازه لنز ۱/۱.۵۶ اینچ - فوکوس Dual Pixel PDAF - لرزشگیر اپتیکال - HDR و Panorama",
+                            "slug": "main-specs",
+                            "code": "f1.6,26mm,1/1.56,pdaf,ois,hdr",
+                            "type": "text"
+                        },
+                        "secondaryLens": {
+                            "labelFa": "نوع لنز دوربین دوم",
+                            "labelEn": "Secondary Lens",
+                            "value": "فوق عریض",
+                            "valueEn": "فوق عریض",
+                            "slug": "secondary-lens",
+                            "code": "ultrawide",
+                            "type": "text"
+                        },
+                        "secondaryResolution": {
+                            "labelFa": "رزولوشن دوربین دوم",
+                            "labelEn": "Secondary Resolution",
+                            "value": "۱۲ مگاپیکسل",
+                            "valueEn": 12,
+                            "slug": "secondary-resolution",
+                            "code": 12,
+                            "type": "number"
+                        },
+                        "secondarySpecs": {
+                            "labelFa": "مشخصات دوربین دوم",
+                            "labelEn": "Secondary Specs",
+                            "value": "دریچه f/۲.۲ - فاصله کانونی ۱۳ میلی‌متر - زاویه ۱۲۰ درجه - پیکسل ۰.۷ میکرومتر - فوکوس PDAF",
+                            "valueEn": "دریچه f/۲.۲ - فاصله کانونی ۱۳ میلی‌متر - زاویه ۱۲۰ درجه - پیکسل ۰.۷ میکرومتر - فوکوس PDAF",
+                            "slug": "secondary-specs",
+                            "code": "f2.2,13mm,120deg,0.7um,pdaf",
+                            "type": "text"
+                        },
+                        "focusTech": {
+                            "labelFa": "فناوری فوکوس",
+                            "labelEn": "Focus Tech",
+                            "value": "PDAF",
+                            "valueEn": "PDAF",
+                            "slug": "focus-tech",
+                            "code": "pdaf",
+                            "type": "text"
+                        },
+                        "video": {
+                            "labelFa": "ویژگی‌های فیلم‌برداری",
+                            "labelEn": "Video",
+                            "value": [
+                                "رزولوشن ۴K با ۶۰fps",
+                                "رزولوشن ۱۰۸۰p با ۱۲۰fps",
+                                "قابلیت HDR",
+                                "پشتیبانی از Dolby Vision HDR تا ۶۰fps",
+                                "ضبط استریو"
+                            ],
+                            "valueEn": [
+                                "رزولوشن ۴K با ۶۰fps",
+                                "رزولوشن ۱۰۸۰p با ۱۲۰fps",
+                                "قابلیت HDR",
+                                "پشتیبانی از Dolby Vision HDR تا ۶۰fps",
+                                "ضبط استریو"
+                            ],
+                            "slug": "video",
+                            "code": "4k60,1080p120,hdr,dolby_vision,stereo",
+                            "type": "array"
+                        },
+                        "flash": {
+                            "labelFa": "فلش",
+                            "labelEn": "Flash",
+                            "value": "Dual LED",
+                            "valueEn": "Dual LED",
+                            "slug": "flash",
+                            "code": "dual_led",
+                            "type": "text"
+                        },
+                        "selfieResolution": {
+                            "labelFa": "رزولوشن دوربین سلفی",
+                            "labelEn": "Selfie Resolution",
+                            "value": "۱۲ مگاپیکسل",
+                            "valueEn": 12,
+                            "slug": "selfie-resolution",
+                            "code": 12,
+                            "type": "number"
+                        },
+                        "selfieSpecs": {
+                            "labelFa": "مشخصات دوربین سلفی",
+                            "labelEn": "Selfie Specs",
+                            "value": "دریچه f/۱.۹ - فاصله ۲۳ میلی‌متر - اندازه لنز ۱/۳.۶ اینچ - فوکوس PDAF - سنسور SL ۳D - HDR - ضبط استریو - فیلمبرداری ۴K/۶۰fps و ۱۰۸۰p/۱۲۰fps - لرزشگیر ژیروسکوپی",
+                            "valueEn": "دریچه f/۱.۹ - فاصله ۲۳ میلی‌متر - اندازه لنز ۱/۳.۶ اینچ - فوکوس PDAF - سنسور SL ۳D - HDR - ضبط استریو - فیلمبرداری ۴K/۶۰fps و ۱۰۸۰p/۱۲۰fps - لرزشگیر ژیروسکوپی",
+                            "slug": "selfie-specs",
+                            "code": "f1.9,23mm,1/3.6,pdaf,sl3d,hdr,4k60,gyro",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sound": {
+                    "label": "صدا",
+                    "specs": {
+                        "speaker": {
+                            "labelFa": "اسپیکر",
+                            "labelEn": "Speaker",
+                            "value": "استریو",
+                            "valueEn": "استریو",
+                            "slug": "speaker",
+                            "code": "stereo",
+                            "type": "text"
+                        },
+                        "output": {
+                            "labelFa": "خروجی صدا",
+                            "labelEn": "Output",
+                            "value": "USB Type-C",
+                            "valueEn": "USB Type-C",
+                            "slug": "output",
+                            "code": "usb_c",
+                            "type": "text"
+                        }
+                    }
+                },
+                "software": {
+                    "label": "نرم‌افزار",
+                    "specs": {
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "iOS",
+                            "valueEn": "iOS",
+                            "slug": "os",
+                            "code": "ios",
+                            "type": "text"
+                        },
+                        "osVersion": {
+                            "labelFa": "نسخه سیستم عامل",
+                            "labelEn": "Os Version",
+                            "value": "iOS ۱۸",
+                            "valueEn": "iOS ۱۸",
+                            "slug": "os-version",
+                            "code": "18",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sensors": {
+                    "label": "حس‌گرها",
+                    "specs": {
+                        "sensors": {
+                            "labelFa": "حس‌گرها",
+                            "labelEn": "Sensors",
+                            "value": [
+                                "قطب‌نما (Compass)",
+                                "شتاب‌سنج (Accelerometer)",
+                                "مجاورت (Proximity)",
+                                "فشارسنج (Barometer)",
+                                "ژیروسکوپ (Gyro)",
+                                "تشخیص چهره بیومتریک (Face ID)"
+                            ],
+                            "valueEn": [
+                                "قطب‌نما (Compass)",
+                                "شتاب‌سنج (Accelerometer)",
+                                "مجاورت (Proximity)",
+                                "فشارسنج (Barometer)",
+                                "ژیروسکوپ (Gyro)",
+                                "تشخیص چهره بیومتریک (Face ID)"
+                            ],
+                            "slug": "sensors",
+                            "code": "compass,accelerometer,proximity,barometer,gyro,face_id",
+                            "type": "array"
+                        }
+                    }
+                },
+                "battery": {
+                    "label": "باتری",
+                    "specs": {
+                        "capacity": {
+                            "labelFa": "ظرفیت باتری",
+                            "labelEn": "Capacity",
+                            "value": "۳۵۶۱ میلی‌آمپر ساعت",
+                            "valueEn": 3561,
+                            "slug": "capacity",
+                            "code": 3561,
+                            "type": "number"
+                        },
+                        "type": {
+                            "labelFa": "نوع باتری",
+                            "labelEn": "Type",
+                            "value": "لیتیوم یون",
+                            "valueEn": "لیتیوم یون",
+                            "slug": "type",
+                            "code": "li_ion",
+                            "type": "text"
+                        },
+                        "power": {
+                            "labelFa": "توان شارژ",
+                            "labelEn": "Power",
+                            "value": "۲۵ وات",
+                            "valueEn": 25,
+                            "slug": "power",
+                            "code": 25,
+                            "type": "number"
+                        },
+                        "chargingTypes": {
+                            "labelFa": "قابلیت‌های شارژ",
+                            "labelEn": "Charging Types",
+                            "value": [
+                                "شارژ با سیم",
+                                "شارژ بی‌سیم",
+                                "شارژ معکوس"
+                            ],
+                            "valueEn": [
+                                "شارژ با سیم",
+                                "شارژ بی‌سیم",
+                                "شارژ معکوس"
+                            ],
+                            "slug": "charging-types",
+                            "code": "wired,wireless,reverse",
+                            "type": "array"
+                        },
+                        "details": {
+                            "labelFa": "مشخصات باتری",
+                            "labelEn": "Details",
+                            "value": "شارژ با سیم با PD۲.۰، ۵۰٪ در ۳۰ دقیقه / شارژ بی‌سیم MagSafe با ۲۵ وات / شارژ بی‌سیم Qi۲ با ۱۵ وات / شارژ معکوس با ۴.۵ وات",
+                            "valueEn": "شارژ با سیم با PD۲.۰، ۵۰٪ در ۳۰ دقیقه / شارژ بی‌سیم MagSafe با ۲۵ وات / شارژ بی‌سیم Qi۲ با ۱۵ وات / شارژ معکوس با ۴.۵ وات",
+                            "slug": "details",
+                            "code": "pd2.0,magsafe25w,qi2_15w,reverse4.5w",
+                            "type": "text"
+                        }
+                    }
+                },
+                "inBox": {
+                    "label": "اقلام همراه",
+                    "specs": {
+                        "accessories": {
+                            "labelFa": "اقلام همراه",
+                            "labelEn": "Accessories",
+                            "value": "کابل USB Type-C",
+                            "valueEn": "کابل USB Type-C",
+                            "slug": "accessories",
+                            "code": "usb_c_cable",
+                            "type": "text"
+                        }
+                    }
+                }
+            },
+            "tags": [
+                "iphone",
+                "apple",
+                "flagship",
+                "5g",
+                "dual-camera"
+            ],
+            "seo": {
+                "metaTitle": "خرید گوشی اپل آیفون 16 CH | 128 گیگابایت | قیمت ویژه",
+                "metaDescription": "گوشی موبایل اپل iPhone 16 CH با 128GB حافظه و دوربین 48 مگاپیکسل. گارانتی 18 ماهه و ارسال سریع.",
+                "keywords": [
+                    "iphone 16",
+                    "اپل",
+                    "گوشی",
+                    "موبایل",
+                    "128gb"
+                ]
+            },
+            "availability": {
+                "status": "available",
+                "estimatedDelivery": "1-3 روز کاری",
+                "regions": [
+                    "تهران",
+                    "اصفهان",
+                    "شیراز",
+                    "مشهد"
+                ]
+            },
+            "createdAt": "2024-01-15T10:30:00Z",
+            "updatedAt": "2024-01-20T14:45:00Z"
+        },
+        {
+            "id": 3,
+            "titleFa": "گوشی موبایل سامسونگ مدل Galaxy S24 FE دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+            "titleEn": "Samsung Galaxy S24 FE Dual SIM 256GB Storage and 8GB RAM Mobile Phone",
+            "slug": "samsung-galaxy-s24-fe-256gb-8gb",
+            "introduction": "گوشی موبایل سامسونگ مدل S24 FE با ظرفیت 256 گیگابایت و رم 8 گیگابایت، یکی از محصولات برجسته و محبوب در بازار گوشی‌های هوشمند است. این گوشی به‌خوبی توانسته است ترکیبی از عملکرد قدرتمند و قیمت مناسب را به کاربران ارائه دهد. با پردازنده سریع و کارآمد، کاربران می‌توانند به‌راحتی از برنامه‌ها و بازی‌های سنگین استفاده کنند. صفحه نمایش 6.7 اینچی با پنل Dynamic AMOLED 2X تصاویر زنده و با کیفیتی را ارائه می‌دهد و تجربه تماشای فیلم را به سطح جدیدی ارتقا می‌دهد. دوربین اصلی 50 مگاپیکسلی این گوشی به همراه دوربین سلفی 10 مگاپیکسلی، قابلیت‌های عکاسی فوق‌العاده‌ای را فراهم می‌آورد که نیازهای عکاسان حرفه‌ای و آماتور را برآورده می‌کند. باتری 4565 میلی‌آمپر ساعتی با قابلیت شارژ سریع، امکان استفاده طولانی‌مدت از گوشی را فراهم می‌سازد. همچنین، طراحی زیبا و کیفیت ساخت بالا، این گوشی را به گزینه‌ای ایده‌آل برای کسانی که به دنبال یک تلفن هوشمند با کارایی بالا و قیمت مناسب هستند، تبدیل کرده است. سامسونگ S24 FE به‌عنوان یک انتخاب هوشمندانه در دنیای گوشی‌های هوشمند، توانسته است نظر کاربران را به خود جلب کند.",
+            "colors": [
+                {
+                    "title": "خاکستری",
+                    "hex": "#A9A9A9"
+                },
+                {
+                    "title": "نعنایی",
+                    "hex": "#AEE5D8"
+                },
+                {
+                    "title": "گرافیتی",
+                    "hex": "#4A4A4A"
+                },
+                {
+                    "title": "آبی",
+                    "hex": "#7CB9E8"
+                }
+            ],
+            "inventory": {
+                "inStock": 112,
+                "reserved": 12,
+                "available": 100
+            },
+            "rating": {
+                "average": 4.5,
+                "totalReviews": 189,
+                "breakdown": {
+                    "5": 120,
+                    "4": 45,
+                    "3": 15,
+                    "2": 7,
+                    "1": 2
+                }
+            },
+            "pricing": {
+                "originalPrice": 42500000,
+                "discountedPrice": 40890000,
+                "discountPercentage": 4,
+                "currency": "IRR"
+            },
+            "images": [
+                "/images/phones/s24fe/1.jpg",
+                "/images/phones/s24fe/2.jpg",
+                "/images/phones/s24fe/3.jpg",
+                "/images/phones/s24fe/4.jpg"
+            ],
+            "likedBy": [
+                130,
+                225,
+                347,
+                462,
+                196
+            ],
+            "sharedBy": [
+                225,
+                462
+            ],
+            "warrantyId": 1,
+            "clubPoints": 950,
+            "shippingMethods": [
+                1,
+                2,
+                3
+            ],
+            "comments": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ],
+            "categoryId": 1,
+            "brandId": 2,
+            "specifications": {
+                "general": {
+                    "label": "مشخصات کلی",
+                    "specs": {
+                        "region": {
+                            "labelFa": "ریجن",
+                            "labelEn": "Region",
+                            "value": "ویتنام",
+                            "valueEn": "Vietnam",
+                            "slug": "region",
+                            "code": "VN",
+                            "type": "text"
+                        },
+                        "phoneType": {
+                            "labelFa": "نوع گوشی",
+                            "labelEn": "Phone Type",
+                            "value": "موبایل",
+                            "valueEn": "Mobile",
+                            "slug": "phone-type",
+                            "code": "mobile",
+                            "type": "text"
+                        },
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "Android",
+                            "valueEn": "Android",
+                            "slug": "os",
+                            "code": "android",
+                            "type": "text"
+                        },
+                        "category": {
+                            "labelFa": "دسته‌بندی",
+                            "labelEn": "Category",
+                            "value": "قاتل پرچم‌دار",
+                            "valueEn": "Flagship Killer",
+                            "slug": "category",
+                            "code": "flagship_killer",
+                            "type": "text"
+                        },
+                        "model": {
+                            "labelFa": "مدل",
+                            "labelEn": "Model",
+                            "value": "Galaxy S24 FE",
+                            "valueEn": "Galaxy S24 FE",
+                            "slug": "model",
+                            "code": "SM-S721B",
+                            "type": "text"
+                        },
+                        "releaseDate": {
+                            "labelFa": "زمان معرفی",
+                            "labelEn": "Release Date",
+                            "value": "۲۶ سپتامبر ۲۰۲۴",
+                            "valueEn": "September 26, 2024",
+                            "slug": "release-date",
+                            "code": "2024-09-26",
+                            "type": "text"
+                        },
+                        "dimensions": {
+                            "labelFa": "ابعاد",
+                            "labelEn": "Dimensions",
+                            "value": "۱۶۲x۷۷.۳x۸ میلی‌متر",
+                            "valueEn": "162x77.3x8 mm",
+                            "slug": "dimensions",
+                            "code": "162x77.3x8",
+                            "type": "text"
+                        },
+                        "weight": {
+                            "labelFa": "وزن",
+                            "labelEn": "Weight",
+                            "value": "۲۱۳ گرم",
+                            "valueEn": 213,
+                            "slug": "weight",
+                            "code": 213,
+                            "type": "number"
+                        },
+                        "bodyMaterial": {
+                            "labelFa": "توضیحات بدنه",
+                            "labelEn": "Body Material",
+                            "value": "قاب جلو و پشت از جنس شیشه (+Gorilla Glass Victus) / فریم از جنس آلومینیوم",
+                            "valueEn": "Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame",
+                            "slug": "body-material",
+                            "code": "glass_aluminum_victus_plus",
+                            "type": "text"
+                        },
+                        "resistance": {
+                            "labelFa": "قابلیت‌های مقاومتی",
+                            "labelEn": "Resistance",
+                            "value": [
+                                "مقاوم در برابر نفوذ آب",
+                                "مقاوم در برابر نفوذ گرد و غبار"
+                            ],
+                            "valueEn": [
+                                "Water resistant",
+                                "Dust resistant"
+                            ],
+                            "slug": "resistance",
+                            "code": "ip68",
+                            "type": "array"
+                        },
+                        "simCount": {
+                            "labelFa": "تعداد سیم کارت",
+                            "labelEn": "Sim Count",
+                            "value": "دو عدد",
+                            "valueEn": 2,
+                            "slug": "sim-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "simType": {
+                            "labelFa": "نوع سیم کارت",
+                            "labelEn": "Sim Type",
+                            "value": "سایز نانو (۸.۸ × ۱۲.۳ میلی‌متر) / eSIM",
+                            "valueEn": "Nano-SIM (8.8 x 12.3 mm) / eSIM",
+                            "slug": "sim-type",
+                            "code": "nano_esim",
+                            "type": "text"
+                        },
+                        "keyFeatures": {
+                            "labelFa": "ویژگی‌های کلیدی",
+                            "labelEn": "Key Features",
+                            "value": [
+                                "دارای گواهی IP68 (مقاوم در برابر گردوغبار و آب تا عمق ۱.۵ متر برای ۳۰ دقیقه)",
+                                "مجهز به هوش مصنوعی Galaxy AI",
+                                "پشتیبانی از Samsung DeX"
+                            ],
+                            "valueEn": [
+                                "IP68 dust/water resistant (up to 1.5m for 30 mins)",
+                                "Galaxy AI features",
+                                "Samsung DeX support"
+                            ],
+                            "slug": "key-features",
+                            "code": "ip68,galaxy_ai,dex",
+                            "type": "array"
+                        }
+                    }
+                },
+                "display": {
+                    "label": "صفحه‌نمایش",
+                    "specs": {
+                        "technology": {
+                            "labelFa": "فناوری صفحه‌نمایش",
+                            "labelEn": "Technology",
+                            "value": "Dynamic AMOLED 2X",
+                            "valueEn": "Dynamic AMOLED 2X",
+                            "slug": "technology",
+                            "code": "dynamic_amoled_2x",
+                            "type": "text"
+                        },
+                        "refreshRate": {
+                            "labelFa": "نرخ بروزرسانی تصویر",
+                            "labelEn": "Refresh Rate",
+                            "value": "۱۲۰ هرتز",
+                            "valueEn": 120,
+                            "slug": "refresh-rate",
+                            "code": 120,
+                            "type": "number"
+                        },
+                        "brightness": {
+                            "labelFa": "روشنایی صفحه‌نمایش",
+                            "labelEn": "Brightness",
+                            "value": "۱۹۰۰ نیت (حداکثر)",
+                            "valueEn": 1900,
+                            "slug": "brightness",
+                            "code": 1900,
+                            "type": "number"
+                        },
+                        "size": {
+                            "labelFa": "اندازه",
+                            "labelEn": "Size",
+                            "value": "۶.۷ اینچ",
+                            "valueEn": 6.7,
+                            "slug": "size",
+                            "code": 6.7,
+                            "type": "number"
+                        },
+                        "screenToBodyRatio": {
+                            "labelFa": "نسبت صفحه‌نمایش به بدنه",
+                            "labelEn": "Screen To Body Ratio",
+                            "value": "~۸۸.۰%",
+                            "valueEn": 88.0,
+                            "slug": "screen-to-body-ratio",
+                            "code": 88.0,
+                            "type": "number"
+                        },
+                        "aspectRatio": {
+                            "labelFa": "نسبت تصویر",
+                            "labelEn": "Aspect Ratio",
+                            "value": "۱۹.۵:۹",
+                            "valueEn": "19.5:9",
+                            "slug": "aspect-ratio",
+                            "code": "19.5:9",
+                            "type": "text"
+                        },
+                        "resolution": {
+                            "labelFa": "رزولوشن صفحه‌نمایش",
+                            "labelEn": "Resolution",
+                            "value": "۱۰۸۰x۲۳۴۰ پیکسل",
+                            "valueEn": "1080x2340 pixels",
+                            "slug": "resolution",
+                            "code": "1080x2340",
+                            "type": "text"
+                        },
+                        "pixelDensity": {
+                            "labelFa": "تراکم پیکسلی",
+                            "labelEn": "Pixel Density",
+                            "value": "~۳۸۵ پیکسل بر اینچ",
+                            "valueEn": 385,
+                            "slug": "pixel-density",
+                            "code": 385,
+                            "type": "number"
+                        },
+                        "screenProtection": {
+                            "labelFa": "نوع محافظ صفحه‌نمایش",
+                            "labelEn": "Screen Protection",
+                            "value": "Corning Gorilla Glass Victus+",
+                            "valueEn": "Corning Gorilla Glass Victus+",
+                            "slug": "screen-protection",
+                            "code": "gorilla_glass_victus_plus",
+                            "type": "text"
+                        },
+                        "otherFeatures": {
+                            "labelFa": "سایر قابلیت‌ها",
+                            "labelEn": "Other Features",
+                            "value": [
+                                "پشتیبانی از +HDR10",
+                                "صفحه‌نمایش همیشه روشن (Always-on display)"
+                            ],
+                            "valueEn": [
+                                "HDR10+ support",
+                                "Always-on display"
+                            ],
+                            "slug": "other-features",
+                            "code": "hdr10_plus,always_on",
+                            "type": "array"
+                        }
+                    }
+                },
+                "processor": {
+                    "label": "پردازنده",
+                    "specs": {
+                        "chipset": {
+                            "labelFa": "تراشه",
+                            "labelEn": "Chipset",
+                            "value": "Exynos 2400e (4 nm)",
+                            "valueEn": "Exynos 2400e (4 nm)",
+                            "slug": "chipset",
+                            "code": "exynos_2400e",
+                            "type": "text"
+                        },
+                        "cpu": {
+                            "labelFa": "پردازنده مرکزی",
+                            "labelEn": "Cpu",
+                            "value": "۱۰ هسته‌ای",
+                            "valueEn": "Deca-core",
+                            "slug": "cpu",
+                            "code": "10_core",
+                            "type": "text"
+                        },
+                        "frequency": {
+                            "labelFa": "فرکانس پردازنده",
+                            "labelEn": "Frequency",
+                            "value": "۱.۹۵ - ۳.۱ گیگاهرتز",
+                            "valueEn": 3.1,
+                            "slug": "frequency",
+                            "code": 3.1,
+                            "type": "number"
+                        },
+                        "gpu": {
+                            "labelFa": "پردازنده گرافیکی",
+                            "labelEn": "Gpu",
+                            "value": "Xclipse 940",
+                            "valueEn": "Xclipse 940",
+                            "slug": "gpu",
+                            "code": "xclipse_940",
+                            "type": "text"
+                        }
+                    }
+                },
+                "memory": {
+                    "label": "حافظه",
+                    "specs": {
+                        "internal": {
+                            "labelFa": "حافظه داخلی",
+                            "labelEn": "Internal",
+                            "value": "۲۵۶ گیگابایت",
+                            "valueEn": 256,
+                            "slug": "internal",
+                            "code": 256,
+                            "type": "number"
+                        },
+                        "ram": {
+                            "labelFa": "رم",
+                            "labelEn": "Ram",
+                            "value": "۸ گیگابایت",
+                            "valueEn": 8,
+                            "slug": "ram",
+                            "code": 8,
+                            "type": "number"
+                        },
+                        "memoryCardSupport": {
+                            "labelFa": "پشتیبانی از کارت حافظه",
+                            "labelEn": "Memory Card Support",
+                            "value": "فاقد پشتیبانی از کارت حافظه",
+                            "valueEn": false,
+                            "slug": "memory-card-support",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "memoryCardStandard": {
+                            "labelFa": "استاندارد کارت حافظه",
+                            "labelEn": "Memory Card Standard",
+                            "value": "UFS 4.0",
+                            "valueEn": "UFS 4.0",
+                            "slug": "memory-card-standard",
+                            "code": "ufs_4.0",
+                            "type": "text"
+                        }
+                    }
+                },
+                "connectivity": {
+                    "label": "اتصالات",
+                    "specs": {
+                        "networks": {
+                            "labelFa": "شبکه‌های مخابراتی",
+                            "labelEn": "Networks",
+                            "value": [
+                                "2G",
+                                "3G",
+                                "4G",
+                                "5G"
+                            ],
+                            "valueEn": [
+                                "2G",
+                                "3G",
+                                "4G",
+                                "5G"
+                            ],
+                            "slug": "networks",
+                            "code": "2g,3g,4g,5g",
+                            "type": "array"
+                        },
+                        "bluetoothVersion": {
+                            "labelFa": "نسخه بلوتوث",
+                            "labelEn": "Bluetooth Version",
+                            "value": "۵.۳",
+                            "valueEn": 5.3,
+                            "slug": "bluetooth-version",
+                            "code": 5.3,
+                            "type": "number"
+                        },
+                        "bluetoothFeatures": {
+                            "labelFa": "مشخصات بلوتوث",
+                            "labelEn": "Bluetooth Features",
+                            "value": [
+                                "A2DP",
+                                "LE"
+                            ],
+                            "valueEn": [
+                                "A2DP",
+                                "LE"
+                            ],
+                            "slug": "bluetooth-features",
+                            "code": "a2dp,le",
+                            "type": "array"
+                        },
+                        "gps": {
+                            "labelFa": "تکنولوژی‌های مکان‌یابی",
+                            "labelEn": "Gps",
+                            "value": [
+                                "GPS",
+                                "GLONASS",
+                                "BDS",
+                                "GALILEO"
+                            ],
+                            "valueEn": [
+                                "GPS",
+                                "GLONASS",
+                                "BDS",
+                                "GALILEO"
+                            ],
+                            "slug": "gps",
+                            "code": "gps,glonass,bds,galileo",
+                            "type": "array"
+                        },
+                        "radio": {
+                            "labelFa": "رادیو",
+                            "labelEn": "Radio",
+                            "value": "نامشخص",
+                            "valueEn": "Unspecified",
+                            "slug": "radio",
+                            "code": "unspecified",
+                            "type": "text"
+                        },
+                        "ports": {
+                            "labelFa": "درگاه‌ها و فناوری‌های ارتباطی",
+                            "labelEn": "Ports",
+                            "value": [
+                                "USB Type-C 3.2",
+                                "OTG"
+                            ],
+                            "valueEn": [
+                                "USB Type-C 3.2",
+                                "OTG"
+                            ],
+                            "slug": "ports",
+                            "code": "usb_c_3.2,otg",
+                            "type": "array"
+                        },
+                        "wireless": {
+                            "labelFa": "شبکه‌های ارتباطی قابل پشتیبانی",
+                            "labelEn": "Wireless",
+                            "value": [
+                                "NFC",
+                                "Wi-Fi",
+                                "بلوتوث"
+                            ],
+                            "valueEn": [
+                                "NFC",
+                                "Wi-Fi",
+                                "Bluetooth"
+                            ],
+                            "slug": "wireless",
+                            "code": "nfc,wifi,bluetooth",
+                            "type": "array"
+                        }
+                    }
+                },
+                "camera": {
+                    "label": "دوربین",
+                    "specs": {
+                        "rearCameraCount": {
+                            "labelFa": "تعداد دوربین‌های پشت",
+                            "labelEn": "Rear Camera Count",
+                            "value": "۳ ماژول دوربین",
+                            "valueEn": 3,
+                            "slug": "rear-camera-count",
+                            "code": 3,
+                            "type": "number"
+                        },
+                        "mainLens": {
+                            "labelFa": "نوع لنز دوربین اصلی",
+                            "labelEn": "Main Lens",
+                            "value": "عریض (Wide)",
+                            "valueEn": "Wide",
+                            "slug": "main-lens",
+                            "code": "wide",
+                            "type": "text"
+                        },
+                        "mainResolution": {
+                            "labelFa": "رزولوشن دوربین اصلی",
+                            "labelEn": "Main Resolution",
+                            "value": "۵۰ مگاپیکسل",
+                            "valueEn": 50,
+                            "slug": "main-resolution",
+                            "code": 50,
+                            "type": "number"
+                        },
+                        "mainSpecs": {
+                            "labelFa": "مشخصات دوربین اصلی",
+                            "labelEn": "Main Specs",
+                            "value": "دریچه دیافراگم f/1.8، فوکوس خودکار دوال پیکسل با تشخیص فاز، لرزشگیر اپتیکال تصویر",
+                            "valueEn": "f/1.8, dual pixel PDAF, OIS",
+                            "slug": "main-specs",
+                            "code": "f1.8,pdaf,ois",
+                            "type": "text"
+                        },
+                        "secondaryLens": {
+                            "labelFa": "نوع لنز دوربین دوم",
+                            "labelEn": "Secondary Lens",
+                            "value": "اولتراواید (Ultrawide)",
+                            "valueEn": "Ultrawide",
+                            "slug": "secondary-lens",
+                            "code": "ultrawide",
+                            "type": "text"
+                        },
+                        "secondaryResolution": {
+                            "labelFa": "رزولوشن دوربین دوم",
+                            "labelEn": "Secondary Resolution",
+                            "value": "۱۲ مگاپیکسل",
+                            "valueEn": 12,
+                            "slug": "secondary-resolution",
+                            "code": 12,
+                            "type": "number"
+                        },
+                        "secondarySpecs": {
+                            "labelFa": "مشخصات دوربین دوم",
+                            "labelEn": "Secondary Specs",
+                            "value": "دریچه دیافراگم f/2.2، پوشش ۱۲۳ درجه",
+                            "valueEn": "f/2.2, 123˚",
+                            "slug": "secondary-specs",
+                            "code": "f2.2,123deg",
+                            "type": "text"
+                        },
+                        "focusTech": {
+                            "labelFa": "فناوری فوکوس",
+                            "labelEn": "Focus Tech",
+                            "value": "PDAF",
+                            "valueEn": "PDAF",
+                            "slug": "focus-tech",
+                            "code": "pdaf",
+                            "type": "text"
+                        },
+                        "video": {
+                            "labelFa": "ویژگی‌های فیلم‌برداری",
+                            "labelEn": "Video",
+                            "value": [
+                                "رزولوشن 8K با سرعت ۳۰ فریم بر ثانیه",
+                                "رزولوشن 4K با سرعت ۳۰/۶۰/۱۲۰ فریم بر ثانیه",
+                                "رزولوشن 1080p با سرعت ۳۰/۶۰/۱۲۰/۲۴۰ فریم بر ثانیه",
+                                "HDR",
+                                "لرزشگیر الکترونیکی تصویر-ژیروسکوپی (gyro-EIS)"
+                            ],
+                            "valueEn": [
+                                "8K@30fps",
+                                "4K@30/60/120fps",
+                                "1080p@30/60/120/240fps",
+                                "HDR",
+                                "gyro-EIS"
+                            ],
+                            "slug": "video",
+                            "code": "8k30,4k120,1080p240,hdr,gyro_eis",
+                            "type": "array"
+                        },
+                        "flash": {
+                            "labelFa": "فلش",
+                            "labelEn": "Flash",
+                            "value": "LED",
+                            "valueEn": "LED",
+                            "slug": "flash",
+                            "code": "led",
+                            "type": "text"
+                        },
+                        "selfieResolution": {
+                            "labelFa": "رزولوشن دوربین سلفی",
+                            "labelEn": "Selfie Resolution",
+                            "value": "۱۰ مگاپیکسل",
+                            "valueEn": 10,
+                            "slug": "selfie-resolution",
+                            "code": 10,
+                            "type": "number"
+                        },
+                        "selfieSpecs": {
+                            "labelFa": "مشخصات دوربین سلفی",
+                            "labelEn": "Selfie Specs",
+                            "value": "لنز عریض (Wide)، دریچه دیافراگم f/2.4",
+                            "valueEn": "Wide, f/2.4",
+                            "slug": "selfie-specs",
+                            "code": "f2.4,wide",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sound": {
+                    "label": "صدا",
+                    "specs": {
+                        "speaker": {
+                            "labelFa": "اسپیکر",
+                            "labelEn": "Speaker",
+                            "value": "استریو",
+                            "valueEn": "Stereo",
+                            "slug": "speaker",
+                            "code": "stereo",
+                            "type": "text"
+                        },
+                        "output": {
+                            "labelFa": "خروجی صدا",
+                            "labelEn": "Output",
+                            "value": "USB Type-C",
+                            "valueEn": "USB Type-C",
+                            "slug": "output",
+                            "code": "usb_c",
+                            "type": "text"
+                        }
+                    }
+                },
+                "software": {
+                    "label": "نرم‌افزار",
+                    "specs": {
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "Android",
+                            "valueEn": "Android",
+                            "slug": "os",
+                            "code": "android",
+                            "type": "text"
+                        },
+                        "osVersion": {
+                            "labelFa": "نسخه سیستم عامل",
+                            "labelEn": "Os Version",
+                            "value": "Android 14, One UI 6.1",
+                            "valueEn": "Android 14, One UI 6.1",
+                            "slug": "os-version",
+                            "code": "14",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sensors": {
+                    "label": "حس‌گرها",
+                    "specs": {
+                        "sensors": {
+                            "labelFa": "حس‌گرها",
+                            "labelEn": "Sensors",
+                            "value": [
+                                "اثر انگشت (زیر نمایشگر، optical)",
+                                "شتاب‌سنج (Accelerometer)",
+                                "ژیروسکوپ (Gyro)",
+                                "مجاورت مجازی (Virtual Proximity Sensing)",
+                                "قطب‌نما (Compass)"
+                            ],
+                            "valueEn": [
+                                "Fingerprint (under display, optical)",
+                                "Accelerometer",
+                                "Gyro",
+                                "Virtual Proximity Sensing",
+                                "Compass"
+                            ],
+                            "slug": "sensors",
+                            "code": "fingerprint_optical,accelerometer,gyro,proximity_virtual,compass",
+                            "type": "array"
+                        }
+                    }
+                },
+                "battery": {
+                    "label": "باتری",
+                    "specs": {
+                        "capacity": {
+                            "labelFa": "ظرفیت باتری",
+                            "labelEn": "Capacity",
+                            "value": "۴۷۰۰ میلی‌آمپر ساعت",
+                            "valueEn": 4700,
+                            "slug": "capacity",
+                            "code": 4700,
+                            "type": "number"
+                        },
+                        "type": {
+                            "labelFa": "نوع باتری",
+                            "labelEn": "Type",
+                            "value": "لیتیوم یونی",
+                            "valueEn": "Li-Ion",
+                            "slug": "type",
+                            "code": "li_ion",
+                            "type": "text"
+                        },
+                        "power": {
+                            "labelFa": "توان شارژ",
+                            "labelEn": "Power",
+                            "value": "۲۵ وات",
+                            "valueEn": 25,
+                            "slug": "power",
+                            "code": 25,
+                            "type": "number"
+                        },
+                        "chargingTypes": {
+                            "labelFa": "قابلیت‌های شارژ",
+                            "labelEn": "Charging Types",
+                            "value": [
+                                "شارژ سریع با سیم",
+                                "شارژ بی‌سیم ۱۵ وات",
+                                "شارژ معکوس بی‌سیم"
+                            ],
+                            "valueEn": [
+                                "Wired, PD, QC2",
+                                "Wireless 15W",
+                                "Reverse wireless"
+                            ],
+                            "slug": "charging-types",
+                            "code": "wired_fast,wireless_15w,reverse_wireless",
+                            "type": "array"
+                        },
+                        "details": {
+                            "labelFa": "مشخصات باتری",
+                            "labelEn": "Details",
+                            "value": "شارژ ۵۰ درصد در ۳۰ دقیقه (باسیم)",
+                            "valueEn": "50% in 30 min (wired)",
+                            "slug": "details",
+                            "code": "50_in_30_wired",
+                            "type": "text"
+                        }
+                    }
+                },
+                "inBox": {
+                    "label": "اقلام همراه",
+                    "specs": {
+                        "accessories": {
+                            "labelFa": "اقلام همراه",
+                            "labelEn": "Accessories",
+                            "value": "کابل USB Type-C، سوزن سیم‌کارت",
+                            "valueEn": "USB Type-C Cable, SIM ejector tool",
+                            "slug": "accessories",
+                            "code": "usb_c_cable,sim_ejector",
+                            "type": "text"
+                        }
+                    }
+                }
+            },
+            "tags": [
+                "samsung",
+                "galaxy s24 fe",
+                "android",
+                "fan edition",
+                "5g",
+                "triple-camera"
+            ],
+            "seo": {
+                "metaTitle": "خرید گوشی سامسونگ Galaxy S24 FE | 256 گیگابایت | قیمت و مشخصات",
+                "metaDescription": "گوشی موبایل سامسونگ گلکسی S24 FE با 256GB حافظه، رم 8GB و دوربین 50 مگاپیکسل. بهترین قیمت با گارانتی اصلی و ارسال فوری.",
+                "keywords": [
+                    "samsung s24 fe",
+                    "سامسونگ",
+                    "گلکسی اس 24 اف ای",
+                    "گوشی",
+                    "موبایل",
+                    "256gb"
+                ]
+            },
+            "availability": {
+                "status": "available",
+                "estimatedDelivery": "1-3 روز کاری",
+                "regions": [
+                    "تهران",
+                    "اصفهان",
+                    "شیراز",
+                    "مشهد",
+                    "تبریز",
+                    "کرج"
+                ]
+            },
+            "createdAt": "2024-10-05T10:00:00Z",
+            "updatedAt": "2024-10-15T12:30:00Z"
+        },
+        {
+            "id": 4,
+            "titleFa": "گوشی موبایل شیائومی مدل Poco X7 Pro دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+            "titleEn": "Xiaomi Poco X7 Pro Dual SIM 512GB Storage and 12GB RAM Mobile Phone",
+            "slug": "xiaomi-poco-x7-pro-512gb-12gb",
+            "introduction": "گوشی موبایل شیائومی Poco X7 Pro نمونه‌ای از نوآوری در کلاس میان‌رده به‌شمار می‌آید که با تلفیق طراحی شیک و عملکرد بالا، تجربه کاربری رضایت‌بخشی ارائه می‌دهد. این گوشی با ابعاد مناسب و وزنی حدود 195 تا 198 گرم، ترکیبی از دوام و راحتی در دست را به کاربران عرضه می‌کند. پوشش جلویی از شیشه Gorilla Glass 7i به همراه قاب‌های پشتی مختلف از جنس پلاستیک یا سیلیکون با روکش چرمی، ظاهری مدرن و مقاوم در برابر ضربه ایجاد کرده است. همچنین استانداردهای IP68/IP69 از نفوذ گرد و غبار و آب در شرایط سخت محافظت می‌کنند. صفحه نمایش 6.67 اینچی AMOLED با رزولوشن 1220×2712 پیکسل و نرخ نوسازی 120 هرتز، تجربه بصری بی‌نظیری با رنگ‌های زنده و جزئیات دقیق ارائه می‌دهد. فناوری Dolby Vision و HDR10+ همراه با نوردهی بالا تا 3200 نیت، بهره‌وری بیشتر در محیط‌های روشن را تضمین می‌کند. از لحاظ عملکرد، Poco X7 Pro از چیپست قدرتمند Mediatek Dimensity 8400 Ultra با ساختار ۴ نانومتری و پردازنده هشت هسته‌ای بهره می‌برد که عملکرد روان در اجرای بازی‌ها و برنامه‌های چندوظیفه‌ای را فراهم می‌کند. اما ستاره‌ی اصلی این گوشی، باتری 6000 میلی‌آمپرساعتی با شارژ سریع 90 وات است که در حدود 42 دقیقه از صفر تا صد درصد شارژ را ممکن می‌سازد. در مجموع Poco X7 Pro ترکیبی از تکنولوژی روز، قدرت عملکرد و ظرافت طراحی است که پاسخگوی نیازهای کاربران پرتوقع محسوب می‌شود.",
+            "colors": [
+                {
+                    "title": "مشکی",
+                    "hex": "#272727"
+                },
+                {
+                    "title": "سبز",
+                    "hex": "#A3B899"
+                },
+                {
+                    "title": "زرد",
+                    "hex": "#F7D94C"
+                }
+            ],
+            "inventory": {
+                "inStock": 15,
+                "reserved": 6,
+                "available": 9
+            },
+            "rating": {
+                "average": 4.6,
+                "totalReviews": 152,
+                "breakdown": {
+                    "5": 110,
+                    "4": 30,
+                    "3": 8,
+                    "2": 3,
+                    "1": 1
+                }
+            },
+            "pricing": {
+                "originalPrice": 26500000,
+                "discountedPrice": 24990000,
+                "discountPercentage": 6,
+                "currency": "IRR"
+            },
+            "images": [
+                "/images/phones/poco-x7-pro/1.jpg",
+                "/images/phones/poco-x7-pro/2.jpg",
+                "/images/phones/poco-x7-pro/3.jpg",
+                "/images/phones/poco-x7-pro/4.jpg",
+                "/images/phones/poco-x7-pro/5.jpg"
+            ],
+            "likedBy": [
+                115,
+                235,
+                357,
+                472,
+                189
+            ],
+            "sharedBy": [
+                235,
+                472
+            ],
+            "warrantyId": 1,
+            "clubPoints": 1100,
+            "shippingMethods": [
+                1,
+                2,
+                3
+            ],
+            "comments": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "categoryId": 1,
+            "brandId": 3,
+            "specifications": {
+                "general": {
+                    "label": "مشخصات کلی",
+                    "specs": {
+                        "region": {
+                            "labelFa": "ریجن",
+                            "labelEn": "Region",
+                            "value": "گلوبال",
+                            "valueEn": "Global",
+                            "slug": "region",
+                            "code": "GLOBAL",
+                            "type": "text"
+                        },
+                        "phoneType": {
+                            "labelFa": "نوع گوشی",
+                            "labelEn": "Phone Type",
+                            "value": "موبایل",
+                            "valueEn": "Mobile",
+                            "slug": "phone-type",
+                            "code": "mobile",
+                            "type": "text"
+                        },
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "Android",
+                            "valueEn": "Android",
+                            "slug": "os",
+                            "code": "android",
+                            "type": "text"
+                        },
+                        "category": {
+                            "labelFa": "دسته‌بندی",
+                            "labelEn": "Category",
+                            "value": "گیمینگ",
+                            "valueEn": "Gaming",
+                            "slug": "category",
+                            "code": "gaming",
+                            "type": "text"
+                        },
+                        "model": {
+                            "labelFa": "مدل",
+                            "labelEn": "Model",
+                            "value": "Poco X7 Pro",
+                            "valueEn": "Poco X7 Pro",
+                            "slug": "model",
+                            "code": "Poco X7 Pro",
+                            "type": "text"
+                        },
+                        "releaseDate": {
+                            "labelFa": "زمان معرفی",
+                            "labelEn": "Release Date",
+                            "value": "۹ ژانویه ۲۰۲۵",
+                            "valueEn": "January 09, 2025",
+                            "slug": "release-date",
+                            "code": "2025-01-09",
+                            "type": "text"
+                        },
+                        "dimensions": {
+                            "labelFa": "ابعاد",
+                            "labelEn": "Dimensions",
+                            "value": "۱۶۰.۸x۷۵.۲x۸.۳ میلی‌متر",
+                            "valueEn": "160.8x75.2x8.3 mm",
+                            "slug": "dimensions",
+                            "code": "160.8x75.2x8.3",
+                            "type": "text"
+                        },
+                        "weight": {
+                            "labelFa": "وزن",
+                            "labelEn": "Weight",
+                            "value": "۱۹۵ گرم",
+                            "valueEn": 195,
+                            "slug": "weight",
+                            "code": 195,
+                            "type": "number"
+                        },
+                        "bodyMaterial": {
+                            "labelFa": "توضیحات بدنه",
+                            "labelEn": "Body Material",
+                            "value": "قاب جلو از جنس شیشه (Gorilla Glass 7i) / پشت پلاستیک یا پلیمر سیلیکون / فریم پلاستیک",
+                            "valueEn": "Glass front (Gorilla Glass 7i), plastic back or silicone polymer back, plastic frame",
+                            "slug": "body-material",
+                            "code": "glass_plastic_victus7i",
+                            "type": "text"
+                        },
+                        "resistance": {
+                            "labelFa": "قابلیت‌های مقاومتی",
+                            "labelEn": "Resistance",
+                            "value": [
+                                "مقاوم در برابر نفوذ آب و گرد و غبار (IP68/IP69)"
+                            ],
+                            "valueEn": [
+                                "Dust and water resistant (IP68/IP69)"
+                            ],
+                            "slug": "resistance",
+                            "code": "ip68_ip69",
+                            "type": "array"
+                        },
+                        "simCount": {
+                            "labelFa": "تعداد سیم کارت",
+                            "labelEn": "Sim Count",
+                            "value": "دو عدد",
+                            "valueEn": 2,
+                            "slug": "sim-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "simType": {
+                            "labelFa": "نوع سیم کارت",
+                            "labelEn": "Sim Type",
+                            "value": "سایز نانو (۸.۸ × ۱۲.۳ میلی‌متر)",
+                            "valueEn": "Nano-SIM (8.8 x 12.3 mm)",
+                            "slug": "sim-type",
+                            "code": "nano",
+                            "type": "text"
+                        },
+                        "keyFeatures": {
+                            "labelFa": "ویژگی‌های کلیدی",
+                            "labelEn": "Key Features",
+                            "value": [
+                                "دارای گواهی IP68/IP69",
+                                "اسپیکرهای استریو",
+                                "شارژ سریع ۹۰ وات"
+                            ],
+                            "valueEn": [
+                                "IP68/IP69 rating",
+                                "Stereo speakers",
+                                "90W fast charging"
+                            ],
+                            "slug": "key-features",
+                            "code": "ip68,stereo,fast_charge_90w",
+                            "type": "array"
+                        }
+                    }
+                },
+                "display": {
+                    "label": "صفحه‌نمایش",
+                    "specs": {
+                        "technology": {
+                            "labelFa": "فناوری صفحه‌نمایش",
+                            "labelEn": "Technology",
+                            "value": "AMOLED",
+                            "valueEn": "AMOLED",
+                            "slug": "technology",
+                            "code": "amoled",
+                            "type": "text"
+                        },
+                        "refreshRate": {
+                            "labelFa": "نرخ بروزرسانی تصویر",
+                            "labelEn": "Refresh Rate",
+                            "value": "۱۲۰ هرتز",
+                            "valueEn": 120,
+                            "slug": "refresh-rate",
+                            "code": 120,
+                            "type": "number"
+                        },
+                        "brightness": {
+                            "labelFa": "روشنایی صفحه‌نمایش",
+                            "labelEn": "Brightness",
+                            "value": "۳۲۰۰ نیت (حداکثر)",
+                            "valueEn": 3200,
+                            "slug": "brightness",
+                            "code": 3200,
+                            "type": "number"
+                        },
+                        "size": {
+                            "labelFa": "اندازه",
+                            "labelEn": "Size",
+                            "value": "۶.۶۷ اینچ",
+                            "valueEn": 6.67,
+                            "slug": "size",
+                            "code": 6.67,
+                            "type": "number"
+                        },
+                        "screenToBodyRatio": {
+                            "labelFa": "نسبت صفحه‌نمایش به بدنه",
+                            "labelEn": "Screen To Body Ratio",
+                            "value": "~۸۸.۸%",
+                            "valueEn": 88.8,
+                            "slug": "screen-to-body-ratio",
+                            "code": 88.8,
+                            "type": "number"
+                        },
+                        "aspectRatio": {
+                            "labelFa": "نسبت تصویر",
+                            "labelEn": "Aspect Ratio",
+                            "value": "۲۰:۹",
+                            "valueEn": "20:9",
+                            "slug": "aspect-ratio",
+                            "code": "20:9",
+                            "type": "text"
+                        },
+                        "resolution": {
+                            "labelFa": "رزولوشن صفحه‌نمایش",
+                            "labelEn": "Resolution",
+                            "value": "۱۲۲۰x۲۷۱۲ پیکسل",
+                            "valueEn": "1220x2712 pixels",
+                            "slug": "resolution",
+                            "code": "1220x2712",
+                            "type": "text"
+                        },
+                        "pixelDensity": {
+                            "labelFa": "تراکم پیکسلی",
+                            "labelEn": "Pixel Density",
+                            "value": "~۴۴۶ پیکسل بر اینچ",
+                            "valueEn": 446,
+                            "slug": "pixel-density",
+                            "code": 446,
+                            "type": "number"
+                        },
+                        "screenProtection": {
+                            "labelFa": "نوع محافظ صفحه‌نمایش",
+                            "labelEn": "Screen Protection",
+                            "value": "Corning Gorilla Glass 7i",
+                            "valueEn": "Corning Gorilla Glass 7i",
+                            "slug": "screen-protection",
+                            "code": "gorilla_glass_7i",
+                            "type": "text"
+                        },
+                        "otherFeatures": {
+                            "labelFa": "سایر قابلیت‌ها",
+                            "labelEn": "Other Features",
+                            "value": [
+                                "پشتیبانی از +HDR10",
+                                "Dolby Vision",
+                                "نمایش ۶۸ میلیارد رنگ"
+                            ],
+                            "valueEn": [
+                                "HDR10+ support",
+                                "Dolby Vision",
+                                "68B colors"
+                            ],
+                            "slug": "other-features",
+                            "code": "hdr10_plus,dolby_vision,68b_colors",
+                            "type": "array"
+                        }
+                    }
+                },
+                "processor": {
+                    "label": "پردازنده",
+                    "specs": {
+                        "chipset": {
+                            "labelFa": "تراشه",
+                            "labelEn": "Chipset",
+                            "value": "Mediatek Dimensity 8400 Ultra (4 nm)",
+                            "valueEn": "Mediatek Dimensity 8400 Ultra (4 nm)",
+                            "slug": "chipset",
+                            "code": "dimensity_8400_ultra",
+                            "type": "text"
+                        },
+                        "cpu": {
+                            "labelFa": "پردازنده مرکزی",
+                            "labelEn": "Cpu",
+                            "value": "۸ هسته‌ای",
+                            "valueEn": "Octa-core",
+                            "slug": "cpu",
+                            "code": "8_core",
+                            "type": "text"
+                        },
+                        "frequency": {
+                            "labelFa": "فرکانس پردازنده",
+                            "labelEn": "Frequency",
+                            "value": "۲.۱ - ۳.۲۵ گیگاهرتز",
+                            "valueEn": 3.25,
+                            "slug": "frequency",
+                            "code": 3.25,
+                            "type": "number"
+                        },
+                        "gpu": {
+                            "labelFa": "پردازنده گرافیکی",
+                            "labelEn": "Gpu",
+                            "value": "Mali-G720 MC7",
+                            "valueEn": "Mali-G720 MC7",
+                            "slug": "gpu",
+                            "code": "mali_g720_mc7",
+                            "type": "text"
+                        }
+                    }
+                },
+                "memory": {
+                    "label": "حافظه",
+                    "specs": {
+                        "internal": {
+                            "labelFa": "حافظه داخلی",
+                            "labelEn": "Internal",
+                            "value": "۵۱۲ گیگابایت",
+                            "valueEn": 512,
+                            "slug": "internal",
+                            "code": 512,
+                            "type": "number"
+                        },
+                        "ram": {
+                            "labelFa": "رم",
+                            "labelEn": "Ram",
+                            "value": "۱۲ گیگابایت",
+                            "valueEn": 12,
+                            "slug": "ram",
+                            "code": 12,
+                            "type": "number"
+                        },
+                        "memoryCardSupport": {
+                            "labelFa": "پشتیبانی از کارت حافظه",
+                            "labelEn": "Memory Card Support",
+                            "value": "فاقد پشتیبانی از کارت حافظه",
+                            "valueEn": false,
+                            "slug": "memory-card-support",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "memoryCardStandard": {
+                            "labelFa": "استاندارد کارت حافظه",
+                            "labelEn": "Memory Card Standard",
+                            "value": "UFS 4.0",
+                            "valueEn": "UFS 4.0",
+                            "slug": "memory-card-standard",
+                            "code": "ufs_4.0",
+                            "type": "text"
+                        }
+                    }
+                },
+                "connectivity": {
+                    "label": "اتصالات",
+                    "specs": {
+                        "networks": {
+                            "labelFa": "شبکه‌های مخابراتی",
+                            "labelEn": "Networks",
+                            "value": [
+                                "2G",
+                                "3G",
+                                "4G",
+                                "5G"
+                            ],
+                            "valueEn": [
+                                "2G",
+                                "3G",
+                                "4G",
+                                "5G"
+                            ],
+                            "slug": "networks",
+                            "code": "2g,3g,4g,5g",
+                            "type": "array"
+                        },
+                        "bluetoothVersion": {
+                            "labelFa": "نسخه بلوتوث",
+                            "labelEn": "Bluetooth Version",
+                            "value": "۵.۴",
+                            "valueEn": 5.4,
+                            "slug": "bluetooth-version",
+                            "code": 5.4,
+                            "type": "number"
+                        },
+                        "bluetoothFeatures": {
+                            "labelFa": "مشخصات بلوتوث",
+                            "labelEn": "Bluetooth Features",
+                            "value": [
+                                "A2DP",
+                                "LE",
+                                "aptX HD"
+                            ],
+                            "valueEn": [
+                                "A2DP",
+                                "LE",
+                                "aptX HD"
+                            ],
+                            "slug": "bluetooth-features",
+                            "code": "a2dp,le,aptx_hd",
+                            "type": "array"
+                        },
+                        "gps": {
+                            "labelFa": "تکنولوژی‌های مکان‌یابی",
+                            "labelEn": "Gps",
+                            "value": [
+                                "GPS",
+                                "GLONASS",
+                                "BDS",
+                                "GALILEO",
+                                "QZSS",
+                                "NavIC"
+                            ],
+                            "valueEn": [
+                                "GPS",
+                                "GLONASS",
+                                "BDS",
+                                "GALILEO",
+                                "QZSS",
+                                "NavIC"
+                            ],
+                            "slug": "gps",
+                            "code": "gps,glonass,bds,galileo,qzss,navic",
+                            "type": "array"
+                        },
+                        "radio": {
+                            "labelFa": "رادیو",
+                            "labelEn": "Radio",
+                            "value": "عدم پشتیبانی",
+                            "valueEn": false,
+                            "slug": "radio",
+                            "code": false,
+                            "type": "boolean"
+                        },
+                        "ports": {
+                            "labelFa": "درگاه‌ها و فناوری‌های ارتباطی",
+                            "labelEn": "Ports",
+                            "value": [
+                                "USB Type-C 3.2",
+                                "OTG",
+                                "Infrared port"
+                            ],
+                            "valueEn": [
+                                "USB Type-C 3.2",
+                                "OTG",
+                                "Infrared port"
+                            ],
+                            "slug": "ports",
+                            "code": "usb_c_3.2,otg,ir",
+                            "type": "array"
+                        },
+                        "wireless": {
+                            "labelFa": "شبکه‌های ارتباطی قابل پشتیبانی",
+                            "labelEn": "Wireless",
+                            "value": [
+                                "NFC",
+                                "Wi-Fi",
+                                "بلوتوث"
+                            ],
+                            "valueEn": [
+                                "NFC",
+                                "Wi-Fi",
+                                "Bluetooth"
+                            ],
+                            "slug": "wireless",
+                            "code": "nfc,wifi,bluetooth",
+                            "type": "array"
+                        }
+                    }
+                },
+                "camera": {
+                    "label": "دوربین",
+                    "specs": {
+                        "rearCameraCount": {
+                            "labelFa": "تعداد دوربین‌های پشت",
+                            "labelEn": "Rear Camera Count",
+                            "value": "۲ ماژول دوربین",
+                            "valueEn": 2,
+                            "slug": "rear-camera-count",
+                            "code": 2,
+                            "type": "number"
+                        },
+                        "mainLens": {
+                            "labelFa": "نوع لنز دوربین اصلی",
+                            "labelEn": "Main Lens",
+                            "value": "عریض (Wide)",
+                            "valueEn": "Wide",
+                            "slug": "main-lens",
+                            "code": "wide",
+                            "type": "text"
+                        },
+                        "mainResolution": {
+                            "labelFa": "رزولوشن دوربین اصلی",
+                            "labelEn": "Main Resolution",
+                            "value": "۵۰ مگاپیکسل",
+                            "valueEn": 50,
+                            "slug": "main-resolution",
+                            "code": 50,
+                            "type": "number"
+                        },
+                        "mainSpecs": {
+                            "labelFa": "مشخصات دوربین اصلی",
+                            "labelEn": "Main Specs",
+                            "value": "دریچه دیافراگم f/1.5، فوکوس خودکار با تشخیص فاز، لرزشگیر اپتیکال تصویر",
+                            "valueEn": "f/1.5, PDAF, OIS",
+                            "slug": "main-specs",
+                            "code": "f1.5,pdaf,ois",
+                            "type": "text"
+                        },
+                        "secondaryLens": {
+                            "labelFa": "نوع لنز دوربین دوم",
+                            "labelEn": "Secondary Lens",
+                            "value": "اولتراواید (Ultrawide)",
+                            "valueEn": "Ultrawide",
+                            "slug": "secondary-lens",
+                            "code": "ultrawide",
+                            "type": "text"
+                        },
+                        "secondaryResolution": {
+                            "labelFa": "رزولوشن دوربین دوم",
+                            "labelEn": "Secondary Resolution",
+                            "value": "۸ مگاپیکسل",
+                            "valueEn": 8,
+                            "slug": "secondary-resolution",
+                            "code": 8,
+                            "type": "number"
+                        },
+                        "secondarySpecs": {
+                            "labelFa": "مشخصات دوربین دوم",
+                            "labelEn": "Secondary Specs",
+                            "value": "دریچه دیافراگم f/2.2",
+                            "valueEn": "f/2.2",
+                            "slug": "secondary-specs",
+                            "code": "f2.2",
+                            "type": "text"
+                        },
+                        "focusTech": {
+                            "labelFa": "فناوری فوکوس",
+                            "labelEn": "Focus Tech",
+                            "value": "PDAF",
+                            "valueEn": "PDAF",
+                            "slug": "focus-tech",
+                            "code": "pdaf",
+                            "type": "text"
+                        },
+                        "video": {
+                            "labelFa": "ویژگی‌های فیلم‌برداری",
+                            "labelEn": "Video",
+                            "value": [
+                                "رزولوشن 4K با سرعت ۲۴/۳۰/۶۰ فریم بر ثانیه",
+                                "رزولوشن 1080p با سرعت ۳۰/۶۰/۱۲۰/۲۴۰/۹۶۰ فریم بر ثانیه",
+                                "پشتیبانی از +HDR10",
+                                "لرزشگیر الکترونیکی تصویر-ژیروسکوپی (gyro-EIS)"
+                            ],
+                            "valueEn": [
+                                "4K@24/30/60fps",
+                                "1080p@30/60/120/240/960fps",
+                                "HDR10+",
+                                "gyro-EIS"
+                            ],
+                            "slug": "video",
+                            "code": "4k60,1080p960,hdr10_plus,gyro_eis",
+                            "type": "array"
+                        },
+                        "flash": {
+                            "labelFa": "فلش",
+                            "labelEn": "Flash",
+                            "value": "LED",
+                            "valueEn": "LED",
+                            "slug": "flash",
+                            "code": "led",
+                            "type": "text"
+                        },
+                        "selfieResolution": {
+                            "labelFa": "رزولوشن دوربین سلفی",
+                            "labelEn": "Selfie Resolution",
+                            "value": "۲۰ مگاپیکسل",
+                            "valueEn": 20,
+                            "slug": "selfie-resolution",
+                            "code": 20,
+                            "type": "number"
+                        },
+                        "selfieSpecs": {
+                            "labelFa": "مشخصات دوربین سلفی",
+                            "labelEn": "Selfie Specs",
+                            "value": "لنز عریض (Wide)، دریچه دیافراگم f/2.2",
+                            "valueEn": "Wide, f/2.2",
+                            "slug": "selfie-specs",
+                            "code": "f2.2,wide",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sound": {
+                    "label": "صدا",
+                    "specs": {
+                        "speaker": {
+                            "labelFa": "اسپیکر",
+                            "labelEn": "Speaker",
+                            "value": "استریو",
+                            "valueEn": "Stereo",
+                            "slug": "speaker",
+                            "code": "stereo",
+                            "type": "text"
+                        },
+                        "output": {
+                            "labelFa": "خروجی صدا",
+                            "labelEn": "Output",
+                            "value": "جک ۳.۵ میلی‌متری ندارد",
+                            "valueEn": "No 3.5mm jack",
+                            "slug": "output",
+                            "code": "no_3.5mm_jack",
+                            "type": "text"
+                        }
+                    }
+                },
+                "software": {
+                    "label": "نرم‌افزار",
+                    "specs": {
+                        "os": {
+                            "labelFa": "سیستم عامل",
+                            "labelEn": "Os",
+                            "value": "Android",
+                            "valueEn": "Android",
+                            "slug": "os",
+                            "code": "android",
+                            "type": "text"
+                        },
+                        "osVersion": {
+                            "labelFa": "نسخه سیستم عامل",
+                            "labelEn": "Os Version",
+                            "value": "Android 15, HyperOS 2",
+                            "valueEn": "Android 15, HyperOS 2",
+                            "slug": "os-version",
+                            "code": "15",
+                            "type": "text"
+                        }
+                    }
+                },
+                "sensors": {
+                    "label": "حس‌گرها",
+                    "specs": {
+                        "sensors": {
+                            "labelFa": "حس‌گرها",
+                            "labelEn": "Sensors",
+                            "value": [
+                                "اثر انگشت (زیر نمایشگر، optical)",
+                                "شتاب‌سنج (Accelerometer)",
+                                "ژیروسکوپ (Gyro)",
+                                "مجاورت (Proximity)",
+                                "قطب‌نما (Compass)"
+                            ],
+                            "valueEn": [
+                                "Fingerprint (under display, optical)",
+                                "Accelerometer",
+                                "Gyro",
+                                "Proximity",
+                                "Compass"
+                            ],
+                            "slug": "sensors",
+                            "code": "fingerprint_optical,accelerometer,gyro,proximity,compass",
+                            "type": "array"
+                        }
+                    }
+                },
+                "battery": {
+                    "label": "باتری",
+                    "specs": {
+                        "capacity": {
+                            "labelFa": "ظرفیت باتری",
+                            "labelEn": "Capacity",
+                            "value": "۶۰۰۰ میلی‌آمپر ساعت",
+                            "valueEn": 6000,
+                            "slug": "capacity",
+                            "code": 6000,
+                            "type": "number"
+                        },
+                        "type": {
+                            "labelFa": "نوع باتری",
+                            "labelEn": "Type",
+                            "value": "سیلیکون-کربن",
+                            "valueEn": "Silicon-carbon",
+                            "slug": "type",
+                            "code": "si_c",
+                            "type": "text"
+                        },
+                        "power": {
+                            "labelFa": "توان شارژ",
+                            "labelEn": "Power",
+                            "value": "۹۰ وات",
+                            "valueEn": 90,
+                            "slug": "power",
+                            "code": 90,
+                            "type": "number"
+                        },
+                        "chargingTypes": {
+                            "labelFa": "قابلیت‌های شارژ",
+                            "labelEn": "Charging Types",
+                            "value": [
+                                "شارژ سریع با سیم",
+                                "شارژ معکوس سیمی"
+                            ],
+                            "valueEn": [
+                                "Wired, PD3.0, QC3+",
+                                "Reverse wired"
+                            ],
+                            "slug": "charging-types",
+                            "code": "wired_fast,reverse_wired",
+                            "type": "array"
+                        },
+                        "details": {
+                            "labelFa": "مشخصات باتری",
+                            "labelEn": "Details",
+                            "value": "شارژ ۱۰۰ درصد در ۴۲ دقیقه (تبلیغ شده)",
+                            "valueEn": "100% in 42 min (advertised)",
+                            "slug": "details",
+                            "code": "100_in_42_wired",
+                            "type": "text"
+                        }
+                    }
+                },
+                "inBox": {
+                    "label": "اقلام همراه",
+                    "specs": {
+                        "accessories": {
+                            "labelFa": "اقلام همراه",
+                            "labelEn": "Accessories",
+                            "value": "کابل USB Type-C، شارژر ۹۰ وات، کاور محافظ، سوزن سیم‌کارت",
+                            "valueEn": "USB Type-C Cable, 90W Adapter, Protective Case, SIM ejector tool",
+                            "slug": "accessories",
+                            "code": "usb_c_cable,adapter_90w,case,sim_ejector",
+                            "type": "text"
+                        }
+                    }
+                }
+            },
+            "tags": [
+                "xiaomi",
+                "poco x7 pro",
+                "android",
+                "gaming",
+                "5g",
+                "fast charging"
+            ],
+            "seo": {
+                "metaTitle": "خرید گوشی شیائومی Poco X7 Pro | 512 گیگابایت | قیمت و مشخصات",
+                "metaDescription": "گوشی موبایل شیائومی پوکو X7 Pro با 512GB حافظه، رم 12GB و دوربین 50 مگاپیکسل. بهترین قیمت برای گوشی گیمینگ با گارانتی اصلی.",
+                "keywords": [
+                    "poco x7 pro",
+                    "شیائومی",
+                    "پوکو ایکس ۷ پرو",
+                    "گوشی گیمینگ",
+                    "موبایل",
+                    "512gb"
+                ]
+            },
+            "availability": {
+                "status": "available",
+                "estimatedDelivery": "2-4 روز کاری",
+                "regions": [
+                    "تهران",
+                    "اصفهان",
+                    "شیراز",
+                    "مشهد",
+                    "تبریز",
+                    "کرج"
+                ]
+            },
+            "createdAt": "2025-01-20T11:00:00Z",
+            "updatedAt": "2025-01-25T16:30:00Z"
+        }
+    ],
+    "users": [
+        {
+            "id": 101,
+            "username": "ali_mobile",
+            "firstName": "علی",
+            "lastName": "محمدی",
+            "email": "ali@example.com",
+            "avatar": "/avatars/user-101.jpg",
+            "phoneNumber": "09123456789",
+            "isVerified": true,
+            "memberSince": "2023-05-15T08:00:00Z",
+            "location": {
+                "city": "تهران",
+                "province": "تهران"
+            },
+            "preferences": {
+                "notifications": true,
+                "newsletter": true
+            }
+        },
+        {
+            "id": 205,
+            "username": "sara_tech",
+            "firstName": "سارا",
+            "lastName": "احمدی",
+            "email": "sara@example.com",
+            "avatar": "/avatars/user-205.jpg",
+            "phoneNumber": "09187654321",
+            "isVerified": true,
+            "memberSince": "2023-08-22T12:30:00Z",
+            "location": {
+                "city": "اصفهان",
+                "province": "اصفهان"
+            }
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "productId": 1,
+            "userId": 101,
+            "parentId": null,
+            "rating": 5,
+            "title": "یک شاهکار به تمام معنا!",
+            "content": "گوشی  موبایل اپل مدل iPhone 16 CH دو با طراحی زیبا و وزن مناسب مورد استقبال خیلی از کاربران قرار گرفته است. دوربین این گوشی از کیفیت بالایی برخوردار است و سرعت پردازش و عملکرد آن به خوبی با محیط iOS سازگار است. از سوی دیگر، برخی کاربران به ضعف باتری و شارژدهی این گوشی انتقاد کرده‌اند و همچنین نبود برخی امکانات موجود در گوشی‌های سامسونگ را معایبی برای آن می‌دانند. در عین حال، نرخ نوسازی 60 هرتز صفحه نمایش نیز در مقایسه با رقبای اندرویدی کمتر جذاب است. در کل، این گوشی برای کاربرانی که به دنبال کیفیت دوربین و تجربه کاربری iOS هستند گزینه خوبی می‌باشد، اما برای کسانی که به عمر باتری و امکانات بیشتر اولویت می‌دهند، مناسب نیست.",
+            "pros": [
+                "کیفیت ساخت عالی",
+                "دوربین فوق‌العاده",
+                "سیستم عامل روان و سریع",
+                "عمر باتری عالی"
+            ],
+            "cons": [
+                "قیمت بالا",
+                "نبود شارژر در جعبه"
+            ],
+            "images": [
+                "/reviews/review-1-1.jpg"
+            ],
+            "likes": 25,
+            "dislikes": 2,
+            "verified": true,
+            "helpful": 18,
+            "createdAt": "2025-02-10T18:30:00Z",
+            "updatedAt": "2025-02-10T18:30:00Z"
+        },
+        {
+            "id": 2,
+            "productId": 1,
+            "userId": 205,
+            "parentId": 1,
+            "rating": 4,
+            "title": null,
+            "content": "دقیقا با شما موافقم. مخصوصا کیفیت صفحه‌نمایشش آدم رو حیرت‌زده می‌کنه. رنگ‌ها خیلی طبیعی و زنده هستن.",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 8,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 6,
+            "createdAt": "2025-02-11T09:15:00Z",
+            "updatedAt": "2025-02-11T09:15:00Z"
+        },
+        {
+            "id": 3,
+            "productId": 2,
+            "userId": 310,
+            "parentId": null,
+            "rating": 5,
+            "title": "بهترین گوشی اندرویدی برای یک کاربر حرفه‌ای",
+            "content": "به عنوان کسی که روزانه ساعت‌ها با گوشی کار می‌کنه و یادداشت‌برداری بخش مهمی از کارمه، S24 Ultra تمام انتظارات من رو برآورده کرده. قلم S Pen با تأخیر بسیار کم، حس نوشتن روی کاغذ واقعی رو می‌ده و قابلیت‌های جدید هوش مصنوعی مثل خلاصه‌سازی یادداشت‌ها در Samsung Notes یا ترجمه همزمان مکالمات، بهره‌وری من رو به شدت بالا برده. جدا از این، دوربین این گوشی یک هیولاست. زوم ۱۰۰ برابری شاید بیشتر جنبه سرگرمی داشته باشه، اما زوم اپتیکال ۵ و ۱۰ برابرش عکس‌هایی با جزئیات باورنکردنی ثبت می‌کنه که هیچ گوشی دیگه‌ای قادر به انجامش نیست. صفحه نمایش بزرگ، تخت و بسیار روشنش هم برای کار طولانی مدت و هم برای سرگرمی ایده‌آله. شاید تنها ایرادی که بشه بهش گرفت ابعاد بزرگ و وزن نسبتا زیادش باشه که البته برای کسی که به دنبال این همه امکاناته، قابل چشم‌پوشیه. باتریش هم به راحتی یک روز و نیم استفاده سنگین رو جواب می‌ده. سامسونگ با این گوشی نشون داد که هنوز پادشاه دنیای اندرویده و می‌دونه چطور یک پکیج کامل و بی‌نقص برای کاربران حرفه‌ای ارائه بده. قابلیت DeX هم که دیگه جای خودشو داره و عملا گوشی رو به یک کامپیوتر دسکتاپ تبدیل می‌کنه.",
+            "pros": [
+                "قلم S Pen بی‌نظیر و کاربردی",
+                "دوربین با زوم فضایی و کیفیت عالی",
+                "صفحه‌نمایش بزرگ و باکیفیت",
+                "قابلیت‌های هوش مصنوعی Galaxy AI",
+                "باتری قدرتمند"
+            ],
+            "cons": [
+                "ابعاد بزرگ و وزن زیاد برای همه مناسب نیست"
+            ],
+            "images": [
+                "/reviews/review-3-1.jpg",
+                "/reviews/review-3-2.jpg"
+            ],
+            "likes": 42,
+            "dislikes": 1,
+            "verified": true,
+            "helpful": 35,
+            "createdAt": "2025-03-05T14:00:00Z",
+            "updatedAt": "2025-03-05T14:00:00Z"
+        },
+        {
+            "id": 4,
+            "productId": 2,
+            "userId": 115,
+            "parentId": 3,
+            "rating": 4,
+            "title": null,
+            "content": "ممنون از بررسی خوبتون. آیا قلمش برای طراحی و نقاشی دیجیتال هم مناسبه یا بیشتر برای نوشتن خوبه؟ حساسیت به فشارش چطوره؟",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 5,
+            "dislikes": 0,
+            "verified": false,
+            "helpful": 4,
+            "createdAt": "2025-03-05T20:10:00Z",
+            "updatedAt": "2025-03-05T20:10:00Z"
+        },
+        {
+            "id": 5,
+            "productId": 3,
+            "userId": 421,
+            "parentId": null,
+            "rating": 4,
+            "title": "ارزش خرید بالایی داره",
+            "content": "من بعد از سالها که پرچمداران سامسونگ و الجی و شیائومی و… داشتم، برای اولین بار تصمیم گرفتم که آیفون بخرم تا بتونم اینم تجربه کنم. کاملا بدون تعصب دارم بعد از ۶ ماه استفاده از این موبایل صادقانه میگم که اصلا به این قیمت ارزش خرید نداره . تنها خوبیش فقط دوربینشه. در بقیه موارد واقعا سامسونگ سرتره. سامسونگ بدون هزینه اضافی کلییییی امکانات در اختیار کاربر میذاره. این در حالیه که اگربخوای همون امکانات رو توی آیفون داشته باشی باید کلی هزینه ی اپل آیدی و اشتراک سیبچه و … بدی . تازه بازم همه ی امکاناتی که سامسونگ داشت رو در اختیارت نمیزاره. باتریشم ضعیفه و اگر زیاد از گوشی استفاده کنید ۱روز کامل رو جواب نمیده. ایفون فقط واسه کسایی که کلاس گذاشتن براشون مهمه خوبه. قطعا در خرید گوشی بعدیم، انتخابم آیفون نخواهد بود. کسایی که موافقن لایک کنن همه ببینن به امید روزی که آیفون داشتن کلاس حساب نشه",
+            "pros": [
+                "صفحه‌نمایش باکیفیت و روشن",
+                "عملکرد روان",
+                "باتری خوب"
+            ],
+            "cons": [
+                "دوربین اولتراواید می‌توانست بهتر باشد"
+            ],
+            "images": [],
+            "likes": 19,
+            "dislikes": 3,
+            "verified": true,
+            "helpful": 15,
+            "createdAt": "2025-04-12T11:45:00Z",
+            "updatedAt": "2025-04-12T11:45:00Z"
+        },
+        {
+            "id": 6,
+            "productId": 4,
+            "userId": 509,
+            "parentId": null,
+            "rating": 5,
+            "title": "هیولای گیمینگ با قیمت باورنکردنی!",
+            "content": "من این گوشی رو صرفا برای بازی خریدم و باید بگم که فراتر از انتظاراتم عمل کرده. پردازنده Dimensity 8400 Ultra به راحتی سنگین‌ترین بازی‌ها مثل Genshin Impact یا Call of Duty Mobile رو روی بالاترین تنظیمات گرافیکی و با فریم ریت ثابت اجرا می‌کنه. چیزی که منو شگفت‌زده کرد، مدیریت حرارت این گوشیه. حتی بعد از یک ساعت بازی مداوم، گوشی فقط کمی گرم می‌شه و اصلا افت عملکرد نداره که این فوق‌العاده‌ست. صفحه‌نمایش 1.5K با نرخ نوسازی ۱۲۰ هرتز و حساسیت لمس بالا، تجربه بازی رو بی‌نهایت لذت‌بخش کرده. رنگ‌ها زنده و حرکات بسیار روان هستن. باتری ۶۰۰۰ میلی‌آمپری هم که دیگه حرفی برای گفتن باقی نمی‌ذاره؛ با استفاده سنگین بازی، راحت یک روز کامل دوام میاره و شارژر ۹۰ واتی هم در کمتر از ۴۵ دقیقه اونو فول شارژ می‌کنه. اسپیکرهای استریو هم کیفیت و حجم صدای خیلی خوبی دارن. شاید تنها نقطه ضعفش دوربینش باشه که در حد یک میان‌رده معمولیه و اصلا قابل مقایسه با پرچمدارها نیست، ولی خب کسی که این گوشی رو می‌خره، اولویتش قطعا دورببین نیست. پوکو با این مدل دوباره نشون داد که معنی واقعی «قاتل پرچمدار» چیه.",
+            "pros": [
+                "عملکرد سخت‌افزاری بی‌رقیب در این بازه قیمتی",
+                "مدیریت حرارت عالی",
+                "صفحه‌نمایش فوق‌العاده برای بازی",
+                "باتری حجیم و سرعت شارژ بسیار بالا"
+            ],
+            "cons": [
+                "دوربین متوسط"
+            ],
+            "images": [
+                "/reviews/review-6-1.jpg"
+            ],
+            "likes": 55,
+            "dislikes": 4,
+            "verified": true,
+            "helpful": 48,
+            "createdAt": "2025-05-01T21:00:00Z",
+            "updatedAt": "2025-05-01T21:00:00Z"
+        },
+        {
+            "id": 7,
+            "productId": 1,
+            "userId": 188,
+            "parentId": null,
+            "rating": 3,
+            "title": "خوبه ولی نه به این قیمت",
+            "content": "گوشی خوشدست و خوبیه با امکانات زیاد. من همیشه از گوشی های سری S سامسونگ استفاده کردم و میکنم.این دستگاه رو به عنوان گوشی دوم و اولین تجرم از آیفون خریدم.از گوشی های سامسونگ واقعا خوش ساخت تر و سبک تر هست و برای کسایی که اولین تجربشون از آیفون هست حتما توصیه میکنم از جای معتبر اپل آیدی بخرید و از خرید اپل ایدی های کارتی پرهیز کنید که اگه گوشیتون قفل بشه هزینه چند میلیونی باید بپردازید.",
+            "pros": [
+                "کیفیت ساخت خوب"
+            ],
+            "cons": [
+                "قیمت بسیار بالا",
+                "نوآوری کم نسبت به نسل قبل"
+            ],
+            "images": [],
+            "likes": 10,
+            "dislikes": 15,
+            "verified": true,
+            "helpful": 9,
+            "createdAt": "2025-02-20T12:00:00Z",
+            "updatedAt": "2025-02-20T12:00:00Z"
+        },
+        {
+            "id": 8,
+            "productId": 3,
+            "userId": 310,
+            "parentId": 4,
+            "rating": null,
+            "title": null,
+            "content": "بله حتما. برای طراحی هم عالیه. من خودم ازش برای اتود زدن با برنامه‌هایی مثل Sketchbook استفاده می‌کنم. حساسیت به فشار و زاویه خیلی دقیقی داره و حس کار با قلم نوری وکام رو می‌ده.",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 9,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 9,
+            "createdAt": "2025-03-06T08:00:00Z",
+            "updatedAt": "2025-03-06T08:00:00Z"
+        },
+        {
+            "id": 9,
+            "productId": 4,
+            "userId": 632,
+            "parentId": null,
+            "rating": 4,
+            "title": "باتری تموم نشدنی!",
+            "content": "مهم‌ترین معیار من برای خرید گوشی باتری بود و این گوشی ناامیدم نکرد. با استفاده معمولی راحت ۲ روز کامل شارژ نگه می‌داره. سرعت شارژش هم فوق‌العاده‌ست.",
+            "pros": [
+                "عمر باتری استثنایی",
+                "سرعت شارژ بالا"
+            ],
+            "cons": [
+                "کمی سنگین است"
+            ],
+            "images": [],
+            "likes": 22,
+            "dislikes": 1,
+            "verified": true,
+            "helpful": 20,
+            "createdAt": "2025-05-10T15:25:00Z",
+            "updatedAt": "2025-05-10T15:25:00Z"
+        },
+        {
+            "id": 10,
+            "productId": 2,
+            "userId": 299,
+            "parentId": null,
+            "rating": 2,
+            "title": "انتظار بیشتری داشتم",
+            "content": "با توجه به قیمت و تبلیغاتی که دیدم، انتظار خیلی بیشتری داشتم. گوشی بعد از چند ساعت کار سنگین داغ می‌کنه و گاهی اوقات لگ‌های ریزی داره. به نظرم با این پول انتخاب‌های بهتری هم هست.",
+            "pros": [
+                "صفحه‌نمایش خوب"
+            ],
+            "cons": [
+                "داغ شدن دستگاه",
+                "لگ‌های گاه‌به‌گاه"
+            ],
+            "images": [],
+            "likes": 7,
+            "dislikes": 28,
+            "verified": false,
+            "helpful": 5,
+            "createdAt": "2025-03-15T19:50:00Z",
+            "updatedAt": "2025-03-15T19:50:00Z"
+        },
+        {
+            "id": 11,
+            "productId": 3,
+            "userId": 501,
+            "parentId": 5,
+            "rating": null,
+            "title": null,
+            "content": "از بین تمامی گوشی های بازار این گوشی بالاترین ارزش خرید رو داره. همه چیز در حد کیفیت استاندارد و حتی بالاتر از حد نرمال خودشه. کیفیت صفحه خوب. باتری عالی چه تو شارژ شدن چه تو شارژ دهی. گوریلا گلس ۷i که یک لول بالاتر از ویکتوسه. پردازنده بسیار قوی که تا این لحظه حتی یک بار هم هنگ کردن یا کند شدن رو تجربه نکردم. دوربین خوب که کاملا برای استفاده های روزمره مناسبه. تنها ایرادش به نظرم ضخامتشه که خب زیاد هم نیست ولی خودم گوشیای زیر ۸ رو ترجیح میدم. یکی هم هایپر os که بعضی وقت ها گیج کننده‌ست و باید تو گوگل سرچ کنی تا تنظیمات اون قسمت رو بشه پیدا کرد. تو این رنج قیمت آنر ۲۰۰ هم گوشی خوبیه. اگه دوربین و طراحی براتون مهمه اون گوشی میتونه انتخاب خوبی باشه ولی خب ضد آب نیست و گوریلا گلس نداره. در غیر این صورت تو خرید پوکو ایکس ۷ پرو شک نکنید",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 2,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 2,
+            "createdAt": "2025-04-13T10:00:00Z",
+            "updatedAt": "2025-04-13T10:00:00Z"
+        },
+        {
+            "id": 12,
+            "productId": 1,
+            "userId": 707,
+            "parentId": null,
+            "rating": 5,
+            "title": "تجربه اکوسیستم اپل",
+            "content": "این اولین آیفون من بود و حالا می‌فهمم چرا همه از اکوسیستم اپل تعریف می‌کنن. هماهنگی بین گوشی، اپل واچ و مک‌بوکم فوق‌العاده‌ست. انتقال فایل با AirDrop، پاسخ دادن به تماس‌ها روی لپ‌تاپ و... قابلیت‌های کوچکی هستن که زندگی روزمره رو خیلی راحت‌تر می‌کنن. خود گوشی هم که عالیه.",
+            "pros": [
+                "اکوسیستم یکپارچه و عالی",
+                "کیفیت ساخت بالا"
+            ],
+            "cons": [],
+            "images": [],
+            "likes": 31,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 28,
+            "createdAt": "2025-02-28T17:00:00Z",
+            "updatedAt": "2025-02-28T17:00:00Z"
+        },
+        {
+            "id": 13,
+            "productId": 4,
+            "userId": 515,
+            "parentId": 6,
+            "rating": null,
+            "title": null,
+            "content": "ممنون بابت بررسی کامل. منم بین این گوشی و Redmi Note 14 Pro موندم. با توجه به اینکه زیاد بازی نمی‌کنم و دوربین برام مهم‌تره، کدوم رو پیشنهاد می‌دین؟",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 4,
+            "dislikes": 0,
+            "verified": false,
+            "helpful": 4,
+            "createdAt": "2025-05-02T13:00:00Z",
+            "updatedAt": "2025-05-02T13:00:00Z"
+        },
+        {
+            "id": 14,
+            "productId": 2,
+            "userId": 433,
+            "parentId": null,
+            "rating": 4,
+            "title": "تقریبا بی‌نقص",
+            "content": "گوشی از هر نظر عالیه. فقط ای کاش سامسونگ فکری به حال سرعت شارژش می‌کرد. وقتی رقبای چینی شارژرهای بالای ۱۰۰ وات دارن، شارژر ۴۵ واتی برای یک پرچمدار چندان جالب نیست.",
+            "pros": [
+                "دوربین عالی",
+                "صفحه‌نمایش بی‌نظیر"
+            ],
+            "cons": [
+                "سرعت شارژ می‌توانست بیشتر باشد"
+            ],
+            "images": [],
+            "likes": 15,
+            "dislikes": 2,
+            "verified": true,
+            "helpful": 11,
+            "createdAt": "2025-03-20T16:40:00Z",
+            "updatedAt": "2025-03-20T16:40:00Z"
+        },
+        {
+            "id": 15,
+            "productId": 3,
+            "userId": 810,
+            "parentId": null,
+            "rating": 5,
+            "title": "بهترین میان‌رده سامسونگ",
+            "content": "من از سری FE سامسونگ همیشه خوشم میومد. این مدل هم مثل نسل‌های قبل، بهترین امکانات پرچمدارها رو با یه قیمت خیلی مناسب‌تر ارائه می‌ده. واقعا هیچ کم و کسری نسبت به سری S اصلی حس نمی‌کنم.",
+            "pros": [
+                "قیمت مناسب",
+                "امکانات نزدیک به پرچمدار"
+            ],
+            "cons": [],
+            "images": [],
+            "likes": 28,
+            "dislikes": 1,
+            "verified": true,
+            "helpful": 25,
+            "createdAt": "2025-04-25T09:00:00Z",
+            "updatedAt": "2025-04-25T09:00:00Z"
+        },
+        {
+            "id": 16,
+            "productId": 1,
+            "userId": 199,
+            "parentId": 7,
+            "rating": 3,
+            "title": null,
+            "content": "تااخر بخونید لطفا : شکی توش نیست که تو رنج قیمت خودش قطعا بهترینه . برای پابجی خریدم . از فریم ریت 120fps و گرافیک hdr پابجی پشتیبانی میکنه کیفیت صفحه عالی ، سریع و قوی . ویژگی گسترش تصویر هایپر او اس هم واقعا جالبه نسخه زردش خیلی شیکه و حس خوبی به ادم میده برای مصرف شارژ: -حتما از تم تاریک استفاده کنید - تو تنظیمات نمایشگر نرخ تازه سازی رو ۶۰ بزارین -تمام برنامه های بلا استفاده ک روش نصبه رو پاک کنید - بعد خروج از برنامه های سنگین مثل بازی ها حتماااا حتما توقف اجباری بزنید ((مهمترررین فوت کوزه گری کاهش مصرف باتری همین گزینه توقف اجباری برای برنامه های سنگین یا الکی فعاله)) که از بخش باتری میتونید ببینید و متوقف کنید. برنامه هایی مثل شیر ایت گوشیو بدجور بکار میگیرن ، فایل نصبی شو داشته باشید ک هربار بعد استفاده حذف نصب کنید ، بعدا دوباره نصب کنید برای بالاترین سرعت شارژ هم از تنظیمات ،قسمت باتری »گزینه های شارژ کردنو بزارین رو حالت سرعت بالا درضمن تبلیغات تقریبا همه برنامه هارو میشه از تنظیماتشون بست",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 6,
+            "dislikes": 1,
+            "verified": true,
+            "helpful": 5,
+            "createdAt": "2025-02-21T14:20:00Z",
+            "updatedAt": "2025-02-21T14:20:00Z"
+        },
+        {
+            "id": 17,
+            "productId": 4,
+            "userId": 750,
+            "parentId": null,
+            "rating": 1,
+            "title": "مشکل نرم‌افزاری",
+            "content": "گوشی بعد از یک هفته خود به خود ری‌استارت می‌شه. به پشتیبانی هم زنگ زدم ولی هنوز مشکلم حل نشده. اصلا از خریدم راضی نیستم.",
+            "pros": [],
+            "cons": [
+                "مشکل ری‌استارت شدن",
+                "پشتیبانی ضعیف"
+            ],
+            "images": [],
+            "likes": 2,
+            "dislikes": 35,
+            "verified": true,
+            "helpful": 2,
+            "createdAt": "2025-05-18T11:10:00Z",
+            "updatedAt": "2025-05-18T11:10:00Z"
+        },
+        {
+            "id": 18,
+            "productId": 2,
+            "userId": 888,
+            "parentId": 10,
+            "rating": null,
+            "title": null,
+            "content": "عجیبه! منم همین گوشی رو دارم ولی اصلا مشکل داغ شدن یا لگ ندارم. شاید دستگاه شما مشکل سخت‌افزاری داره. بهتره به گارانتی مراجعه کنید.",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 10,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 10,
+            "createdAt": "2025-03-16T10:05:00Z",
+            "updatedAt": "2025-03-16T10:05:00Z"
+        },
+        {
+            "id": 19,
+            "productId": 3,
+            "userId": 421,
+            "parentId": 11,
+            "rating": null,
+            "title": null,
+            "content": "بله متاسفانه در نور کم، کیفیت عکس‌های اولتراواید افت می‌کنه و نویز明显 می‌شه. البته در نور روز عملکردش کاملا قابل قبوله.",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 3,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 3,
+            "createdAt": "2025-04-14T08:30:00Z",
+            "updatedAt": "2025-04-14T08:30:00Z"
+        },
+        {
+            "id": 20,
+            "productId": 4,
+            "userId": 509,
+            "parentId": 13,
+            "rating": null,
+            "title": null,
+            "content": "سلام. اگه دوربین اولویت اول شماست، قطعا ردمی نوت ۱۴ پرو انتخاب بهتریه. دوربین اصلی و سلفی قوی‌تری داره. ولی اگه گاهی بازی می‌کنید و سرعت و روانی گوشی در بلندمدت براتون مهمه، پوکو X7 پرو به خاطر پردازنده قدرتمندترش انتخاب بهتری خواهد بود.",
+            "pros": [],
+            "cons": [],
+            "images": [],
+            "likes": 7,
+            "dislikes": 0,
+            "verified": true,
+            "helpful": 7,
+            "createdAt": "2025-05-03T11:00:00Z",
+            "updatedAt": "2025-05-03T11:00:00Z"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "گوشی موبایل",
+            "slug": "mobile-phones",
+            "parent": null,
+            "icon": "/icons/mobile.svg",
+            "description": "انواع گوشی‌های هوشمند",
+            "seo": {
+                "metaTitle": "خرید گوشی موبایل | بهترین قیمت",
+                "metaDescription": "خرید انواع گوشی موبایل با بهترین قیمت و گارانتی معتبر"
+            }
+        },
+        {
+            "id": 2,
+            "name": "اپل",
+            "slug": "apple",
+            "parent": 1,
+            "icon": "/icons/apple.svg",
+            "description": "محصولات اپل"
+        }
+    ],
+    "brands": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "nameFa": "اپل",
+            "slug": "apple",
+            "logo": "/brands/apple-logo.png",
+            "description": "شرکت اپل آمریکا",
+            "website": "https://apple.com",
+            "country": "آمریکا",
+            "founded": 1976
+        },
+        {
+            "id": 2,
+            "name": "samsung",
+            "nameFa": "سامسونگ",
+            "slug": "samsung",
+            "logo": "",
+            "description": "شرکت سامسونگ کره",
+            "website": "",
+            "country": "کره",
+            "founded": 1976
+        }
+    ],
+    "warranties": [
+        {
+            "id": 1,
+            "title": "گارانتی ۱۸ ماهه لیان سرویس",
+            "duration": 18,
+            "provider": "لیان سرویس",
+            "coverage": [
+                "نقص فنی دستگاه",
+                "تعویض قطعات اصلی",
+                "خدمات پس از فروش"
+            ],
+            "excludes": [
+                "خسارات فیزیکی",
+                "نفوذ مایعات",
+                "استفاده نامناسب"
+            ],
+            "contactInfo": {
+                "phone": "021-88776655",
+                "website": "https://lianservice.com"
+            }
+        }
+    ],
+    "shippingMethods": [
+        {
+            "id": 1,
+            "name": "توسط دیجی‌کالا",
+            "type": "express",
+            "duration": "1-2 روز کاری",
+            "cost": 0,
+            "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+            "coverage": [
+                "تهران",
+                "کرج",
+                "اصفهان",
+                "شیراز"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "پست پیشتاز",
+            "type": "standard",
+            "duration": "3-5 روز کاری",
+            "cost": 15000,
+            "description": "ارسال با پست",
+            "coverage": "سراسر کشور"
+        },
+        {
+            "id": 3,
+            "name": "باربری",
+            "type": "freight",
+            "duration": "5-7 روز کاری",
+            "cost": 25000,
+            "description": "ارسال با باربری",
+            "coverage": "شهرهای بزرگ"
+        }
+    ]
+}

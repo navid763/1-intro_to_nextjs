@@ -2,19 +2,34 @@ import StarRating from "./star-rating";
 import InfoOutlineIcon from "@/components/icons/info-outlined";
 import SortingList, { commentsSortings } from "../sorting/sorting-list";
 import CommentCard from "./comment-card";
+import { IComment } from "@/models/comments";
+import { Rating } from "@/models/product-props";
+
+interface CommentsProps {
+    commentIds: number[];
+    rating: Rating
+
+}
 
 
-export default function Comments() {
+export default async function Comments({ commentIds, rating }: CommentsProps) {
+    let stringCommentIds = commentIds.map(c => c.toString());
+    const resAllComments = await fetch("http://localhost:5000/comments", { cache: "no-store" }) // not for real APIs
+    const allComments: IComment[] = await resAllComments.json();
+    const comments = allComments.filter(c => stringCommentIds.includes(c.id.toString()));
+
+
+
 
     return (
         <div className="flex items-start w-full gap-2 mt-6">
 
             <div className="w-[25%] flex flex-col sticky top-8 z-10 p-2">
-                <div className="flex items-center gap-1.5 mr-2"><span className="text-3xl">3.8</span><span className="text-sm">از 5</span></div>
+                <div className="flex items-center gap-1.5 mr-2"><span className="text-3xl">{rating.average}</span><span className="text-sm">از 5</span></div>
 
                 <div className="flex w-[90%] items-center gap-2 mt-4 mr-2">
-                    <StarRating rating={3.8} starSize="5" fullStarColor="#f9a825" />
-                    <p className="text-xs text-neutral-500">از مجموع ۱,۲۷۴ امتیاز</p>
+                    <StarRating rating={rating.average} starSize="5" fullStarColor="#f9a825" />
+                    <p className="text-xs text-neutral-500">از مجموع {rating.totalReviews} امتیاز</p>
                 </div>
                 <p className="text-sm text-neutral-400 mt-6 self-center">شما هم درباره این کالا دیدگاه ثبت کنید</p>
 
@@ -33,9 +48,11 @@ export default function Comments() {
                 </div>
 
                 <div className="flex flex-col w-full items-center">
-                    <CommentCard />
-                    <CommentCard />
-                    <CommentCard />
+                    {
+                        comments.map(comment => {
+                            return <CommentCard text={comment.content} ratings={comment.rating} key={comment.id} />
+                        })
+                    }
                 </div>
 
             </div>

@@ -3,7 +3,7 @@ import ClubIcon from "@/components/icons/club";
 import InfoOutlineIcon from "@/components/icons/info-outlined";
 import { useState } from "react";
 
-export default function ClubPointsAnnounce({ points }: { points: string }) {
+export default function ClubPointsAnnounce({ points }: { points: number }) {
     const [hover, setHover] = useState(false);
 
     return (

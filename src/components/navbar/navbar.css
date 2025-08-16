@@ -9,8 +9,9 @@ nav {
 
 nav .navs {
     display: flex;
+    flex-direction: row-reverse;
     justify-content: center;
-    align-items: end;
+    align-items: center;
     gap: 1.5rem;
     margin-left: 2rem;
     width: 30%;

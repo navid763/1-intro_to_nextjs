@@ -1,5 +1,9 @@
 
 export default function Products() {
 
-    return <h1>Products page</h1>
-}
+    return (
+        <div className="main-container" dir="rtl">
+            <p dir="ltr"> products will apear here...</p>
+        </div >
+    )
+} 

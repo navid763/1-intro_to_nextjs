@@ -1,13 +1,13 @@
 interface IpriceProps {
-    rawPrice?: number
-    parentClassName: string
+    rawPrice: number
+    className?: string
 }
 
-export default function RawPrice({ rawPrice = 0, parentClassName }: IpriceProps) {
+export default function RawPrice({ rawPrice, className = "" }: IpriceProps) {
 
     return (
-        <div className={parentClassName}>
-            {rawPrice ? <p className="line-through">{rawPrice.toLocaleString()}</p> : ""}
-        </div>
+
+        <p className={`line-through ${className} `}>{rawPrice.toLocaleString()}</p>
+
     )
 }

@@ -7,7 +7,7 @@ import ArrowLeftIcon from "@/components/icons/arrow-left";
 
 ProductAvailableIcon
 
-export default function DeliveryMethod() {
+export default function DeliveryMethod({ method, description }: { method: string; description: string }) {
     const [popUp, setPopUp] = useState(false);
 
     return (
@@ -25,7 +25,7 @@ export default function DeliveryMethod() {
                     <div className="w-[5%]"><div className="w-1 h-1 p-[2px] bg-blue-400 rounded mr-1.5"></div></div>
                     <div className="flex items-center w-[60%] gap-0.5">
                         <DeliveryTruckIcon className="w-4 h-4 text-[#e6123d]" />
-                        <span className="text-xs text-neutral-500">توسط دیجی‌کالا</span>
+                        <span className="text-xs text-neutral-500">{method}</span>
                     </div>
                 </div>
 
@@ -50,9 +50,9 @@ export default function DeliveryMethod() {
 
                         <div className="flex items-center w-full gap-1 mt-3">
                             <DeliveryTruckIcon className="w-5 h-5 text-[#e6123d]" />
-                            <span className=" text-neutral-800">توسط دیجی‌کالا</span>
+                            <span className=" text-neutral-800">{method}</span>
                         </div>
-                        <p className="w-full px-1 py-4 text-sm text-gray-700">این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.</p>
+                        <p className="w-full px-1 py-4 text-sm text-gray-700">{description}</p>
 
                         <div className="bg-neutral-200 px-2 py-4 rounded-2xl text-center cursor-pointer" onClick={() => setPopUp(false)} >باشه، فهمیدم</div>
 
