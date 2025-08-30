@@ -9,7 +9,7 @@ export default function ToggleSwitch() {
             onClick={() => setEnabled(!enabled)}
             dir="ltr"
 
-            className={`w-12 h-6 flex items-center bg-gray-300 rounded-full p-1 cursor-pointer transition-colors duration-300 ${enabled ? "bg-green-500" : "bg-gray-300"
+            className={`w-12 h-6 flex items-center bg-gray-300 rounded-full p-1 cursor-pointer transition-colors duration-300 ${enabled ? "bg-red-500" : "bg-gray-300"
                 }`}
         >
             <div

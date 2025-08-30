@@ -17,7 +17,7 @@ export const featuresToshow: Record<number, FeaturesToShowObject[]> = {
 
 };
 
-export const cartegoriesWhoNeedfeaturs = [1, 2];
+export const categoriesWhoNeedfeaturs = [1, 2];
 
 import { FeaturesMap } from "@/components/products/product-card/properties-icons-list";
 // import { Specifications } from "@/models/product-props";
@@ -27,7 +27,7 @@ import { IProduct } from "@/models/product-props";
 
 
 export function featuresExtractor(data: IProduct, categoryId: number): FeaturesMap | false {
-    if (!cartegoriesWhoNeedfeaturs.includes(categoryId)) {
+    if (!categoriesWhoNeedfeaturs.includes(categoryId)) {
         return false
     }
 

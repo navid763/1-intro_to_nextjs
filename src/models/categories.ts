@@ -11,4 +11,5 @@ export interface Category {
     icon: string;
     description: string;
     seo: CategorySeo;
+    filterIds: string[]
 }

@@ -1,10 +1,10 @@
 nav {
     display: flex;
-    /* justify-content: space-around; */
     align-items: center;
     width: 100%;
-    height: 4rem;
-    border-bottom: solid 1px #c5c5c5;
+    height: 5rem;
+    /* ارتفاع را کمی بیشتر کردم تا با لوگو هماهنگ باشد */
+    /* border-bottom: solid 1px #c5c5c5; این خط را حذف یا کامنت کنید */
 }
 
 nav .navs {
@@ -15,7 +15,7 @@ nav .navs {
     gap: 1.5rem;
     margin-left: 2rem;
     width: 30%;
-    margin-top: 1.5rem;
+    /* margin-top: 1.5rem; این خط دیگر لازم نیست */
 }
 
 nav .logo-container {

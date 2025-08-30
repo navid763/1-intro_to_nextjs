@@ -1,3 +1,4 @@
+"use client"
 import ProductBreadCrumbs from "@/components/products/product-page/product-page-breadCrumbs";
 import SideIcons from "@/components/products/product-page/side-icons";
 import ProductImageGallery from "@/components/products/product-page/gallery";
@@ -23,36 +24,15 @@ import { IProduct, Warranty, ShippingMethod } from "@/models/product-props";
 import { featuresExtractor } from "@/data/productFeatures";
 import AddToCart from "@/components/products/product-page/add-to-cart";
 import { SelectedColorProvider } from "@/context/selected-color/selected-color";
-import { notFound } from "next/navigation";
-
-interface props {
-    params: {
-        productSlug: string;
-    };
-};
 
 
-export default async function Product({ params }: props) {
-    let { productSlug } = await params;
+interface ProductPageWrapperProps {
+    product: IProduct;
+    warranty: Warranty;
+    shippingMethod: ShippingMethod;
+}
 
-    const resProduct = await fetch(`http://localhost:5000/products?slug=${productSlug}`, { cache: "no-store" });
-    const productArr: IProduct[] = await resProduct.json();
-    const product = productArr[0];
-
-    // const resProduct2 = await fetch(`http://localhost:3000/api/products?slug=${productSlug}`, { cache: "no-store" });
-    // const product2: IProduct = await resProduct2.json();
-
-    if (productArr.length <= 0) {
-        return notFound();
-    }
-
-    const resWarranty = await fetch(`http://localhost:5000/warranties/?id=${product.warrantyId}`, { cache: "no-store" });
-    const wrrantyArr: Warranty[] = await resWarranty.json();
-    const warranty = wrrantyArr[0];
-
-    const resShippingMethod = await fetch(`http://localhost:5000/shippingMethods/?id=${product.shippingMethods[0]}`, { cache: "no-store" });
-    const shippingMethodArr: ShippingMethod[] = await resShippingMethod.json();
-    const shippingMethod = shippingMethodArr[0];
+export default function ProductPageClient({ product, warranty, shippingMethod }: ProductPageWrapperProps) {
 
 
     const features = featuresExtractor(product, product.categoryId);

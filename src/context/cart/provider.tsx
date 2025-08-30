@@ -104,7 +104,6 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
     const [state, dispatch] = useReducer(cartReducer, cartInitState);
     const [isHydrated, setIsHydrated] = useState(false);
 
-    // THIS IS WHERE YOU ADD THE useEffect:
     useEffect(() => {
         const saved = localStorage.getItem("cart");
         if (saved) {

@@ -865,8 +865,8 @@
                 }
             },
             "pricing": {
-                "originalPrice": 45999000,
-                "discountedPrice": 45999000,
+                "originalPrice": 46200000,
+                "discountedPrice": 46200000,
                 "discountPercentage": 0,
                 "currency": "IRR"
             },
@@ -1682,7 +1682,7 @@
             },
             "pricing": {
                 "originalPrice": 42500000,
-                "discountedPrice": 40890000,
+                "discountedPrice": 40700000,
                 "discountPercentage": 4,
                 "currency": "IRR"
             },
@@ -2490,7 +2490,7 @@
             },
             "pricing": {
                 "originalPrice": 26500000,
-                "discountedPrice": 24990000,
+                "discountedPrice": 23800000,
                 "discountPercentage": 6,
                 "currency": "IRR"
             },
@@ -3740,7 +3740,12 @@
             "seo": {
                 "metaTitle": "خرید گوشی موبایل | بهترین قیمت",
                 "metaDescription": "خرید انواع گوشی موبایل با بهترین قیمت و گارانتی معتبر"
-            }
+            },
+            "filterIds": [
+                1,
+                2,
+                5
+            ]
         },
         {
             "id": 2,
@@ -3748,7 +3753,12 @@
             "slug": "apple",
             "parent": 1,
             "icon": "/icons/apple.svg",
-            "description": "محصولات اپل"
+            "description": "محصولات اپل",
+            "seo": {
+                "metaTitle": "خرید گوشی موبایل آیفون | بهترین قیمت",
+                "metaDescription": "خرید انواع گوشی موبایل با بهترین قیمت و گارانتی معتبر"
+            },
+            "filterIds": []
         }
     ],
     "brands": [
@@ -3829,6 +3839,80 @@
             "cost": 25000,
             "description": "ارسال با باربری",
             "coverage": "شهرهای بزرگ"
+        }
+    ],
+    "filters": [
+        {
+            "id": 1,
+            "type": "checkbox",
+            "field": "storage",
+            "label": "حافظه داخلی",
+            "items": [
+                "16",
+                "32",
+                "64",
+                "128",
+                "256",
+                "512",
+                "1000"
+            ],
+            "unitFa": "گیگابایت",
+            "unitSlug": "GB"
+        },
+        {
+            "id": 2,
+            "type": "checkbox",
+            "field": "ram",
+            "label": "رم",
+            "items": [
+                "4",
+                "6",
+                "8",
+                "12",
+                "16",
+                "2"
+            ],
+            "unitFa": "گیگابایت",
+            "unitSlug": "GB"
+        },
+        {
+            "id": 3,
+            "type": "checkbox",
+            "field": "cpu",
+            "label": "پردازنده"
+        },
+        {
+            "id": 4,
+            "type": "checkbox",
+            "field": "gpu",
+            "label": "کارت گرافیک",
+            "items": [
+                "AMD",
+                "Nvidia",
+                "Intel"
+            ],
+            "unitFa": "",
+            "unitSlug": ""
+        },
+        {
+            "id": 5,
+            "type": "checkbox",
+            "field": "camera",
+            "label": "دوربین اصلی",
+            "items": [
+                "45",
+                "32",
+                "48",
+                "50",
+                "60",
+                "15",
+                "13",
+                "12",
+                "8",
+                "105"
+            ],
+            "unitFa": "مگاپیکسل",
+            "unitSlug": "MP"
         }
     ]
 }

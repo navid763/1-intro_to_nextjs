@@ -1,5 +1,4 @@
 "use client"
-import { useState, useEffect } from "react";
 import { IProductColors } from "../product-card/color-options";
 import ColorCircle from "./color-circle";
 import { useSelectedColor } from "@/context/selected-color/selected-color";

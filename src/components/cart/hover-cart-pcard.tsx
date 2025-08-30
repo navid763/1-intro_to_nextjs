@@ -6,7 +6,7 @@ import Price from "../products/product-card/Price";
 import ToomanIcon from "../icons/Tooman";
 import GuaranteeIcon from "../icons/guarantee";
 import { IProduct } from "@/models/product-props";
-import { Warranty } from "@/models/product-props";
+import { Warranty } from "@/models/warranty";
 import { useEffect, useState } from "react";
 import { Item } from "@/context/cart/action-state";
 

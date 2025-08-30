@@ -2,7 +2,7 @@
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 
-export default function BreadCrumbs() {
+export default function BreadCrumbs({ name }: { name: string | number | boolean | string[] }) {
     const path = usePathname();
     let paths = path.split("/");
     paths = paths.slice(1, paths.length - 1);
@@ -21,7 +21,7 @@ export default function BreadCrumbs() {
                 );
             })}
             <span>/</span>
-            <Link href="#">product name</Link>
+            <Link href="#">{name}</Link>
         </div>
     );
 }

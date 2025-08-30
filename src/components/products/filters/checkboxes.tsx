@@ -6,7 +6,7 @@ interface IFiltersCheckbox {
 }
 
 
-export default function FiltersCheckbox({ value, checked, Handler, label }: IFiltersCheckbox) {
+export default function Checkboxes({ value, checked, Handler, label }: IFiltersCheckbox) {
 
     return (
         <div className=" w-full">
@@ -18,7 +18,7 @@ export default function FiltersCheckbox({ value, checked, Handler, label }: IFil
                     checked={checked}
                     onChange={() => Handler(value)}
                     className="w-4 h-4 accent-blue-500"
-                />{label} مگاپیکسل</label>
+                />{value} {label}</label>
         </div>
     )
 }

@@ -1,17 +1,17 @@
 "use client"
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ArrowDownIcon from "@/components/icons/arrow-down";
 import ColorFilterOptions from "./color-filter-options";
+import { IfilterTypeParam } from "@/models/filters/filters";
 
-export const filterColors = [
-    { color: "#79d1c3", title: "آبی" },
-    { color: "#61b390", title: "سبز" },
-    { color: "#f76b8a", title: "قرمز" },
-    { color: "#ffffff", title: "سفید" },
-    { color: "#a7bcb9", title: "طوسی" }
-];
+import { standardFilterColors, IstandardFilterColors } from "./standard-colors";
 
-export default function ColorsFilter() {
+type ColorsFilterProps = {
+    filtersHandler: (colorSlugs: string[], filterTypeParam: IfilterTypeParam) => void;
+
+}
+
+export default function ColorsFilter({ filtersHandler }: ColorsFilterProps) {
     const [accordionShow, setAccordionShow] = useState<boolean>(false);
     const [selected, setSelected] = useState<string[]>([]);
 
@@ -19,13 +19,20 @@ export default function ColorsFilter() {
         setAccordionShow(!accordionShow)
     };
 
-    const onChangeHandler = (color: string) => {
+    const onChangeHandler = (colorSlug: string) => {
         setSelected((prev) => {
-            return prev.includes(color)
-                ? prev.filter(i => i !== color)
-                : [...prev, color]
-        })
+            return prev.includes(colorSlug)
+                ? prev.filter(i => i !== colorSlug)
+                : [...prev, colorSlug]
+        });
     };
+
+    useEffect(() => {
+
+        filtersHandler(selected, "color");
+
+    }, [selected, filtersHandler]);
+
 
     return (
         <div className="flex flex-col items-center w-[95%] p-4 border-b border-neutral-200 gap-2">
@@ -35,16 +42,16 @@ export default function ColorsFilter() {
 
             {selected.length > 0 && // in order to show the selected color-names
                 <div className="text-sm text-neutral-500 flex">
-                    {selected.map((colorCode) => {
-                        return <span className="px-1" key={colorCode}>{filterColors.find(i => i.color == colorCode)?.title || ""}</span>
+                    {selected.map((colorSlug) => {
+                        return <span className="px-1" key={colorSlug}>{standardFilterColors.find((i: IstandardFilterColors) => i.slug == colorSlug)?.nameFa || ""}</span>
                     })}
                 </div>
             }
 
             {accordionShow &&
                 <div className=" w-full grid grid-cols-3 gap-1">
-                    {filterColors.map((item) => {
-                        return <ColorFilterOptions colorHex={item.color} colorTitle={item.title} handler={onChangeHandler} selected={selected.includes(item.color)} key={item.color} />
+                    {standardFilterColors.map((item) => {
+                        return <ColorFilterOptions colorHex={item.hex} colorTitle={item.nameFa} slug={item.slug} handler={onChangeHandler} selected={selected.includes(item.slug)} key={item.hex} />
                     })}
                 </div>
             }

@@ -9,17 +9,28 @@ interface ISortings {
 }
 
 interface ISortingListProps {
-    sortings: ISortings[]
-    totalItems: { entityType: "محصول" | "دیدگاه"; counts: number }
+    sortings: ISortings[];
+
+    totalItems: {
+        entityType: "محصول" | "دیدگاه";
+        counts: number
+    };
+    sortHandler?: (value: string) => void;
+
 }
 
 
-export default function SortingList({ sortings, totalItems }: ISortingListProps) {
+export default function SortingList({ sortings, totalItems, sortHandler }: ISortingListProps) {
 
     const [activeSort, setActiveSort] = useState<string>("");
 
     const clickHandler = (sortingValue: string) => {
-        setActiveSort(sortingValue);
+        let value = sortingValue;
+        if (sortingValue == activeSort) value = "";
+
+        setActiveSort(value);
+        sortHandler?.(value);
+
     }
     return (
         <>
@@ -38,14 +49,14 @@ export default function SortingList({ sortings, totalItems }: ISortingListProps)
 }
 
 export const productsSortings = [
-    { label: "پرفروش‌ترین", value: "best-selling" },
-    { label: "ارزانترین", value: "price-low" },
-    { label: "گرانترین", value: "price-high" },
+    { label: "پرفروش‌ترین", value: "best_selling" },
+    { label: "ارزانترین", value: "price_asc" },
+    { label: "گرانترین", value: "price_desc" },
     { label: "جدیدترین", value: "newest" },
 ];
 
 export const commentsSortings = [
     { label: "جدیدترین", value: "best-selling" },
-    { label: "مفیدتررین", value: "price-low" },
-    { label: "خریداران", value: "price-high" }
+    { label: "مفیدتررین", value: "price_asc" },
+    { label: "خریداران", value: "price_desc" }
 ];
