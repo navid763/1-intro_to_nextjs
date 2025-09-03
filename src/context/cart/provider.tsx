@@ -94,17 +94,24 @@
 
 //v3
 
+
+
 import { useEffect, useReducer, useState } from "react"
 import CartContext, { cartReducer, cartInitState } from "./action-state"
 
 export function CartProvider({ children }: { children: React.ReactNode }) {
-    // Remove the getInitState function - we don't need it anymore
+    // Track if we're on the client side
+    const [isClient, setIsClient] = useState(false);
 
     // Always start with the initial state (empty cart)
     const [state, dispatch] = useReducer(cartReducer, cartInitState);
     const [isHydrated, setIsHydrated] = useState(false);
 
+    // This effect runs only on the client side after hydration
     useEffect(() => {
+        setIsClient(true);
+
+        // Load cart data from localStorage
         const saved = localStorage.getItem("cart");
         if (saved) {
             try {
@@ -120,13 +127,19 @@ export function CartProvider({ children }: { children: React.ReactNode }) {
 
     // Save to localStorage whenever state changes (but only after hydration)
     useEffect(() => {
-        if (isHydrated) {
+        if (isHydrated && isClient) {
             localStorage.setItem("cart", JSON.stringify(state));
         }
-    }, [state, isHydrated]);
+    }, [state, isHydrated, isClient]);
 
+    // Prevent hydration mismatch by rendering a consistent initial state
+    // until the client-side code takes over
     return (
-        <CartContext.Provider value={{ state, dispatch, isHydrated }}>
+        <CartContext.Provider value={{
+            state,
+            dispatch,
+            isHydrated: isHydrated && isClient
+        }}>
             {children}
         </CartContext.Provider>
     )
