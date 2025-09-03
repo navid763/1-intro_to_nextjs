@@ -85,8 +85,16 @@ export default function Navbar() {
                 </div>
             </nav>
 
-            <div className={`w-full  bg-white transition-all duration-150 ease-in-out ${showSubHeader ? ' visible h-10 ' : ' invisible h-0 '}`}>
-                categories
+            <div className={`w-full flex justify-around bg-white transition-all duration-150 ease-in-out ${showSubHeader ? ' visible h-10 ' : ' invisible h-0 '}`}>
+                <div className="w-[40%] flex  items-center justify-center">
+                    <img src="/images/phones/s24fe/1.jpg" alt="user image" className="w-[40px] h-[40px] rounded-[50%] mb-1" />
+                    <span className="text-sm">user name</span>
+                </div>
+
+
+                <div className="w-[40%] flex items-center justify-center">
+                    <button className="bg-[#f3f7fe] text-[#1557c2]  font-bold px-3 py-1.5 border-0 cursor-pointer rounded-[8px] transition duration-300 hover:bg-[#3b82f6] hover:text-white">log in</button>
+                </div>
             </div>
         </header>
     )

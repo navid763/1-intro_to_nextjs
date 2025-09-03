@@ -39,12 +39,14 @@ export default async function Product({ params }: props) {
     const productArr: IProduct[] = await resProduct.json();
     const product = productArr[0];
 
-    // const resProduct2 = await fetch(`http://localhost:3000/api/products?slug=${productSlug}`, { cache: "no-store" });
-    // const product2: IProduct = await resProduct2.json();
+    // const resProduct = await fetch(`http://localhost:3000/api/products?slug=${productSlug}`, { cache: "no-store" });
+    // const productArr: IProduct[] = await resProduct.json();
+    // const product = productArr[0];
 
     if (productArr.length <= 0) {
-        return notFound();
+        return notFound()
     }
+
 
     const resWarranty = await fetch(`http://localhost:5000/warranties/?id=${product.warrantyId}`, { cache: "no-store" });
     const wrrantyArr: Warranty[] = await resWarranty.json();

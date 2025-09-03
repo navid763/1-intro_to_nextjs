@@ -5,11 +5,11 @@ export async function GET(request: Request) {
     const { searchParams } = new URL(request.url);
     let data = [...db.comments]; // created a copy of products to avoid mutating the original data
 
-    const commentsId = searchParams.get("id");
-    if (commentsId) {
-        return NextResponse.json(data.find(c => String(c.id) === commentsId));
+    const commentsIds = searchParams.get("id");
+    if (commentsIds) {
+        const IdsArray = commentsIds.split(/[,\s]+/).map(i => i.trim()).filter(i => i.length > 0)
+        return NextResponse.json(data.filter(c => IdsArray.includes(String(c.id))));
     }
-
 
     return NextResponse.json(data)
 }

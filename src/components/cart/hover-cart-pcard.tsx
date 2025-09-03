@@ -1,5 +1,5 @@
 "use client"
-
+import Link from "next/link";
 import Image from "next/image";
 import QuantityButton from "./quantity-handler-button";
 import Price from "../products/product-card/Price";
@@ -45,13 +45,15 @@ export default function HoverCartProductCard({ cartItem }: { cartItem: Item }) {
             <div className="flex w-full items-start">
                 <div className="flex flex-col w-[35%] items-center gap-1">
                     {product?.images[0] &&
-                        <Image src={product?.images[0]} width={120} height={180} alt={product.slug || " "} />
+                        <Link href={`http://localhost:3000/products/${product?.slug}`} className="cursor-pointer">
+                            <Image src={product?.images[0]} width={120} height={180} alt={product.slug || " "} />
+                        </Link>
                     }
                     <div className="p-1 text-red-600 font-bold mt-1 ">فروش ویژه</div>
                 </div>
 
                 <div className="flex flex-col w-[65%] items-center mr-4 gap-2">
-                    <div className="text-neutral-900 text-lg"><p>{product?.titleFa}</p></div>
+                    <div className="text-neutral-900 text-lg"><Link href={`http://localhost:3000/products/${product?.slug}`} className="cursor-pointer"><p>{product?.titleFa}</p></Link></div>
                     <div className="flex justify-start items-center gap-2 self-start text-neutral-600">
                         <div className="w-4 h-4 rounded-[50%]" style={{ backgroundColor: cartItem.color?.hex }}></div>
                         <div>{cartItem.color?.title}</div>

@@ -14,10 +14,9 @@ interface CommentsProps {
 
 export default async function Comments({ commentIds, rating }: CommentsProps) {
     let stringCommentIds = commentIds.map(c => c.toString());
-    const resAllComments = await fetch("http://localhost:5000/comments", { cache: "no-store" }) // not for real APIs
+    const resAllComments = await fetch("http://localhost:5000/comments", { cache: "no-store" }) // do not use this way for real APIs
     const allComments: IComment[] = await resAllComments.json();
     const comments = allComments.filter(c => stringCommentIds.includes(c.id.toString()));
-
 
 
 

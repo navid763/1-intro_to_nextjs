@@ -21,7 +21,8 @@ export async function GET(request: Request) {
 
     const productSlug = searchParams.get("slug");
     if (productSlug) {
-        return NextResponse.json(data.find(p => String(p.slug) === productSlug)); // if user requests for a product by product ID
+        const product = data.filter(p => String(p.slug) === productSlug); // always returns array
+        return NextResponse.json(product);
     }
 
 
