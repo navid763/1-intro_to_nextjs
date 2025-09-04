@@ -6,6 +6,7 @@ import Navbar from "@/components/navbar/navbar";
 import Footer from "@/components/footer/footer";
 import { CartProvider } from "@/context/cart/provider";
 import NextAuthSessionProvider from "@/components/NextAuth-provider/provider";
+import ProviderErrorBoundary from "@/components/NextAuth-provider/provider-errorBoundary";
 
 // const geistSans = Geist({
 //   variable: "--font-geist-sans",
@@ -46,15 +47,17 @@ export default function RootLayout({
       <body
         className={` ${BYekan.variable} ${iranianSans.variable}  antialiased`}
       >
-        <NextAuthSessionProvider>
-          <CartProvider>
-            <div className="flex flex-col min-h-screen">
-              <Navbar />
-              {children}
-              <Footer />
-            </div>
-          </CartProvider>
-        </NextAuthSessionProvider>
+        <ProviderErrorBoundary>
+          <NextAuthSessionProvider>
+            <CartProvider>
+              <div className="flex flex-col min-h-screen">
+                <Navbar />
+                {children}
+                <Footer />
+              </div>
+            </CartProvider>
+          </NextAuthSessionProvider>
+        </ProviderErrorBoundary>
 
       </body>
     </html>
