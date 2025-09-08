@@ -6,12 +6,14 @@ import { usePathname } from "next/navigation";
 import { useState, useEffect, useRef } from "react";
 import CartOnHeader from "../cart/cart-icon";
 import "./navbar.css";
+import { useSession, signIn, signOut } from "next-auth/react";
 
 export default function Navbar() {
     const navLinks = [
         { href: "/", title: "Home" },
         { href: "/products", title: "Products" }
-    ]
+    ];
+    const { data: session, status } = useSession();
 
     const [showSubHeader, setShowSubHeader] = useState(true);
     // به جای useState از useRef استفاده می‌کنیم
@@ -85,15 +87,19 @@ export default function Navbar() {
                 </div>
             </nav>
 
-            <div id="sub-header" className={`w-full flex justify-around bg-white transition-all duration-150 ease-in-out overflow-hidden ${showSubHeader ? ' visible h-10 ' : ' invisible h-0 '}`}>
-                <div className="w-[40%] flex  items-center justify-center">
-                    <img src="/images/phones/s24fe/1.jpg" alt="user image" className="w-[40px] h-[40px] rounded-[50%] mb-1" />
-                    <span className="text-sm">user name</span>
-                </div>
+            <div id="sub-header" className={`w-full flex justify-between bg-white transition-all duration-150 ease-in-out overflow-hidden ${showSubHeader ? ' visible h-10 ' : ' invisible h-0 '}`}>
+                {session?.user &&
+                    <div className="w-[20%] flex items-center justify-center self-start mb-1">
+                        <img src={session.user.image || "/images/phones/s24fe/1.jpg"} alt="user image" className="w-[40px] h-[40px] rounded-[50%]" />
+                        <span className="text-sm">{session.user.name ?? "no name"}</span>
+                    </div>}
 
 
-                <div className="w-[40%] flex items-center justify-center">
-                    <button className="bg-[#f3f7fe] text-[#1557c2]  font-bold px-3 py-1.5 border-0 cursor-pointer rounded-[8px] transition duration-200 hover:bg-[#3b82f6] hover:text-white">log in</button>
+                <div className="w-[20%] flex items-center justify-center self-end mb-1">
+                    {session?.user
+                        ? <button onClick={() => signOut()} className="bg-[#f3f7fe] text-[#c2153d]  font-bold px-3 py-1.5 border-0 cursor-pointer rounded-[8px] transition duration-200 hover:bg-[#3b82f6] hover:text-white">sign out</button>
+                        : <button onClick={() => signIn()} className="bg-[#f3f7fe] text-[#1557c2]  font-bold px-3 py-1.5 border-0 cursor-pointer rounded-[8px] transition duration-200 hover:bg-[#3b82f6] hover:text-white">log in</button>
+                    }
                 </div>
             </div>
         </header>
